@@ -28,7 +28,7 @@ Evaluation in the course will be approximately as follows:
 
 |    |   | 
 |----------------------------------------|----------------------------------------|
-|<img src="imgs/hilton.jpg" width="100"> | <img src="imgs/sunshine.png" width="100">                 | 
+|<img src="imgs/hilton.jpg" width="100"> | <img src="imgs/sunshine.jpg" width="100">                 | 
 | Michael Hilton   | Josh Sunshine | 
 | mhilton@cmu.edu    | sunshine@cs.cmu.edu                              | 
 
