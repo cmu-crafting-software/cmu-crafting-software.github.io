@@ -26,8 +26,8 @@ Evaluation in the course will be approximately as follows:
 
 ### Instructors
 
-
-| ![useful image](imgs/hilton.jpg) | ![useful image](imgs/sunshine.png)                    | 
+|------|----------------------------------------|
+| ![useful image](imgs/hilton.jpg | width=100) | ![useful image](imgs/sunshine.png | width=100)                    | 
 | Michael Hilton   | Josh Sunshine | 
 | mhilton@cmu.edu    | sunshine@cs.cmu.edu                              | 
 
