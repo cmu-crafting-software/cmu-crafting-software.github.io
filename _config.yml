@@ -41,6 +41,7 @@ collections:
   modules:
   schedules:
   announcements:
+  assignments:
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -64,6 +65,11 @@ defaults:
       type: announcements
     values:
       layout: announcement
+  - scope:
+      path: ''
+      type: assignments
+    values:
+      layout: assignment
 
 compress_html:
   clippings: all
