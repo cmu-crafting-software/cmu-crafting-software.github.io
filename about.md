@@ -16,18 +16,28 @@ description: >-
 
 ---
 
-## About
+## Welcome to 17-450/17-950 Crafting Software
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+Do you use programming to solve problems in your field of study? Do you know enough to be dangerous, but wish you could be proud of your code? This course aims to provide students with sufficient knowledge and skills to use programming as part of their work. In this class, you will learn how to identify and find problems in your code. You will learn to read, parse, organize, and transform data. We will teach you to write code collaboratively and refine your programs so others can use them.The course will be a mixture of lecture and guided exercise with a recitation focused on hands on instruction. In this course, students are expected to have been exposed to some basic programming concepts, such as variables, if-statements, loops, and arrays. However, students are not expected to have extensive programming experience. This course is not appropriate for students that have completed more than two courses involving programming. We expect students in this class to have diverse backgrounds and experience. Some students will be self-taught, while others will have taken a programming course such as 02-201, 15-110, 95-898, or the library’s Software Carpentry workshop. 
 
-## Lecture
+### Learning Goals
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+ - Identify the common resources available for developing software and evaluate the quality of the content. 
+ - Understand important rules and conventions of software systems.
+ - Understand and apply common languages and tools used to develop real-world software.
+ - Apply collaborative work strategies when developing software.
+ - Analyze alternative software tools and select appropriate choices for the problem.
+ - Analyze software to diagnose problems and create solutions.
+ - Create and deploy a web application that reads, parses, and analyzes data.
 
-## Resources
+### Structure of the course
+Meets twice weekly
+Most classes will include both a lecture and a collaborative in-class exercise
+There will be weekly homework assignments for students to practice that week’s material
+There will be a summative final project, in which students will integrate the tools and techniques they have learned into a cohesive whole. 
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
-
-## Assignments
-
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+Evaluation in the course will be approximately as follows:
+ - Homeworks: 50%
+ - Quizzes: 10%
+ - Final project: 30% 
+ - Participation: 10%
