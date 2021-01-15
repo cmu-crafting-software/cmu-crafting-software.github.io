@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Crafting Software
 tagline: 17-450/17-950 Crafting Software
-description: A modern, highly customizable, responsive Jekyll template for course websites
+description: Welcome to Crafting Software
 author: Michael Hilton and Josh Sunshine
 #baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'https://cmu-crafting-software.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
