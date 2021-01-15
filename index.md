@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Just the Class
+title: Software Crafting
 nav_exclude: true
 seo:
   type: Course
-  name: Just the Class
+  name: Software Crafting
 ---
 
 # {{ site.tagline }}
