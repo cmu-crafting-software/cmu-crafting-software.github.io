@@ -1,6 +1,12 @@
 ---
-title: HW01 - Version Control
+layout: page
+title: HW01  Version Control
+permalink: /assignments/hw1
+parent: Assignments
 ---
+
+HW1 will be publicly released on Jan 22
+
 
  Learning goals
 - Understand basic concepts of Version Control Systems (VCS)

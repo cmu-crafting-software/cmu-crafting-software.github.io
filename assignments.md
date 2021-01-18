@@ -1,14 +1,9 @@
 ---
 layout: page
 title: Assignments
-description: Listing of course assignments.
+permalink: /assignments/
+has_children: true
+nav_order: 3
 ---
 
-# Assignments
-
-<div>HELLO Assignments.</div>
-
-
-{% for assignments in site.assignments %}
-{{ assignments.title}}
-{% endfor %}
+{:toc}
