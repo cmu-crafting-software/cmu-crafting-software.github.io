@@ -3,13 +3,11 @@
 
 // Just the Class styles
 @import 'announcement';
-@import 'assignment';
 @import 'module';
 @import 'schedule';
 @import 'staffer';
 
 // Overrides
-
 .site-header {
   height: 240px;
   max-height: 240px;
@@ -17,9 +15,6 @@
 } 
 
 
-
-
-//existing Overrides
 a abbr[title] {
   border-bottom: none;
 }
