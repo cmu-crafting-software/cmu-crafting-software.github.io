@@ -20,7 +20,7 @@ author: Michael Hilton and Josh Sunshine
 #baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'https://cmu-crafting-software.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
-logo: "/assets/images/crafting software 400x400.jpg"
+logo: "/assets/images/crafting_software_header_noBG.png"
 
 # Theme settings
 remote_theme: pmarsceill/just-the-docs@v0.3.3
