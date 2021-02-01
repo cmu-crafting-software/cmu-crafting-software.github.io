@@ -19,7 +19,7 @@ Feb 11 (Thur)
 : RegEx, Parsing
 
 Feb 12 (Fri)
-: **Recitation**{: .label .label-purple } Reading Data
+: **Recitation**{: .label .label-purple } Command Line
 
 Feb 16 (Tue)
 : Intro to Testing: Edge Cases, Coverage
@@ -28,7 +28,7 @@ Feb 18 (Thur)
 : WebAPIs/reading documentation
 
 Feb 19 (Fri)
-: **Recitation**{: .label .label-purple } Reading Data part 2
+: **Recitation**{: .label .label-purple } Reading Data
 
 Feb 23 (Tue)
 : **Break**{: .label .label-red } Break Day; No Classes
