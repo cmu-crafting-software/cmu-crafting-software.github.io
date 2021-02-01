@@ -27,6 +27,10 @@ There will be a summative final project, in which students will integrate the to
 - Final project: 30% 
 - Participation: 10%
 
+## Late days
+For the homeworks, you will have a total of six (6) late days.  You may use up to two (2) late days per assignment. To use a late day, you need to to message the course staff in a private message on slack, informing us that you will be using a late day.
+
+
 ## Logistics and People
 - Main class: Tuesday, Thursday 4:00-5:20pm (offered over zoom)
 - Recitation: Friday 10:30-11:20am (offered over zoom)
