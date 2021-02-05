@@ -9,7 +9,7 @@ nav_order: 2
 #Resources
 
 ## git/GitHub
-Cheatsheets: 
+
 [github cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 [git tower cheatsheet](https://www.git-tower.com/blog/git-cheat-sheet/)
