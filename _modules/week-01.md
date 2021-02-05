@@ -13,7 +13,7 @@ Feb 5 (Fri)
 : **Recitation**{: .label .label-purple } Git/GitHub/submitting and assignment
 
 Feb 9 (Tue)
-: File I/O
+: File I/O **[HW1](https://cmu-crafting-software.github.io//assignments/hw1) due**{: .label .label-red }
 
 Feb 11 (Thur)
 : RegEx, Parsing
