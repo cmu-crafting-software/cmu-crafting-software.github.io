@@ -5,7 +5,7 @@ permalink: /assignments/hw1
 parent: Assignments
 ---
 
-# Homework 1
+# Homework 1 **Due Tuesday Feb 9th at 4pm EST**{: .label .label-red }
 In this homework, you will be practicing using version control (git and GitHub). We will be using this throughout the course extensively.  Additionally, we will be requiring you to use the command line for this assignment. 
 
 
