@@ -19,16 +19,16 @@ Feb 11 (Thur)
 : Paths and directory navigation
 
 Feb 12 (Fri)
-: **Recitation**{: .label .label-purple } Command Line
+: **Recitation**{: .label .label-purple } WebAPIs, REST
 
 Feb 16 (Tue)
 : Intro to Testing: Edge Cases, Coverage
 
 Feb 18 (Thur)
-: WebAPIs/reading documentation
+: Debugging
 
 Feb 19 (Fri)
-: **Recitation**{: .label .label-purple } Reading Data
+: **Recitation**{: .label .label-purple } Using the Command Line and Shell
 
 Feb 23 (Tue)
 : **Break**{: .label .label-red } Break Day; No Classes
