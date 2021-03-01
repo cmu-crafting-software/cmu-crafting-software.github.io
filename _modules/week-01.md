@@ -34,19 +34,19 @@ Feb 23 (Tue)
 : **Break**{: .label .label-red } Break Day; No Classes
 
 Feb 25 (Thur)
-: Relational Model, SQL Insert
+: Relational Model, SQL Querying
 
 Feb 26 (Fri)
-: **Recitation**{: .label .label-purple } Storing data
+: **Recitation**{: .label .label-purple } RDBMS priniciples, Installing PostgreSQL
 
 Mar 2 (Tue)
-: Normalization, Indexes, Data Design
+: SQL Data Definition Language, SQL Insert
 
 Mar 4 (Thur)
-: Alternatives to the Relational Model
+: Indexes, Working with SQL in Python
 
 Mar 5 (Fri)
-: **Recitation**{: .label .label-purple } Data Organization
+: **Recitation**{: .label .label-purple } Python collection manipulation
 
 Mar 9 (Tue)
 : Querying with SQL/ACID
