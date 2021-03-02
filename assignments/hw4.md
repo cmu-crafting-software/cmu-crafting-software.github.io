@@ -1,11 +1,11 @@
 ---
 layout: page
-title: HW03 Defensive Programming
-permalink: /assignments/hw3
+title: HW04 Defensive Programming
+permalink: /assignments/hw4
 parent: Assignments
 ---
 
-# Homework 3
+# Homework 4
 In this homework, you will build a Python application that interacts with the PostgreSQL relational database managements system. You will create a database, read data from two APIs, insert the data into the database, and queries from the database. Please read the entire assignment in full before you begin. You might find some helpful information in the Resources section. 
 
 ## Skills demonstrated
