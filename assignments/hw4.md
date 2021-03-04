@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HW04 Defensive Programming
+title: HW04 Using a Relational Database Management System
 permalink: /assignments/hw4
 parent: Assignments
 ---
