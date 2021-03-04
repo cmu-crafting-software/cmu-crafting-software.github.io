@@ -20,7 +20,7 @@ You will be asked to perform the following series of tasks:
 - Pull Changes from your repository
 - Confirm that you can run the starter code
 - Find issues in the uncleaned csv file
-- mitigate issues computationally
+- Mitigate issues computationally
 
 #### Pull Changes from your repository
 We have pushed the starter code and input data to each for your repositories, specifically to a folder titled HW3 in your homework-username directory.
@@ -33,7 +33,7 @@ You should identify the problem we have injected into the uncleaned csv file. We
 To assist you, we have provided a file, `problems.md`, which gives a short description of each type of problem. Once you find the problems, you should write their line numbers under the appropriate category in problems.md.
 
 
-#### mitigate issues computationally
+#### Mitigate issues computationally
 Modify starter code file so it outputs a cleaned csv. You should not repair the mangled .csv by hand.  Your program should output as much of the original data as possible, but repair the problems you identified in one of the ways we discussed in class: 1) replace garbled data with default values 2) use an average of other values in the column 3) remove extraneous content 4) adds missing content 5) perform a bespoke/one-off correction. *If the input data is irredeemable it is also okay to remove the line.* 
 
 For each of the problems you identified above, write a very short (e.g. one sentence) justification of the fix to your program. These justifications should explain why the fix you wrote was appropriate for the problem. Write these justifications immediately after each problem in problems.md. 
