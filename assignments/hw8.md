@@ -9,10 +9,11 @@ parent: Assignments
 This homework has two unrelated parts:
 - Revision of project proposal with team 
 - Visualization reading 
+
 The parts are described in detail below.
 
 ## Revision of project proposal with team 
-Write a revised project proposal. Your revised proposal should in list all of the members of your team. The proposal can be based on the proposal one of your teamates submitted, can merge ideas from two proposals, or propose something entirely new. We strongly you to work with 1 or 2 others, but it is also acceptable to work alone. The revised proposal should meet all of the requirements described in HW6:
+Write a revised project proposal. Your revised proposal should list all of the members of your team. The proposal can be based on the proposal one of the teamates submitted, can merge ideas from two proposals, or propose something entirely new. We strongly suggest you work with 1 or 2 others, but it is also acceptable to work alone. The revised proposal should meet all of the requirements described in HW6:
 > Your proposal should include a short project title and 2-3 paragraphs describing the purpose and scope of the project. Your writeup should address the following questions:
 >    * What is the audience for your project? Who might use it if you succeed? For what purpose?
 >   * What are the set of features in your minimum-viable product?
