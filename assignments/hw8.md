@@ -7,8 +7,9 @@ parent: Assignments
 
 # Homework 8
 This homework has two unrelated parts:
-- Revision project proposal with team 
+- Revision of project proposal with team 
 - Visualization reading 
+The parts are described in detail below.
 
 ## Revision of project proposal with team 
 Write a revised project proposal. Your revised proposal should in list all of the members of your team. The proposal can be based on the proposal one of your teamates submitted, can merge ideas from two proposals, or propose something entirely new. We strongly you to work with 1 or 2 others, but it is also acceptable to work alone. The revised proposal should meet all of the requirements described in HW6:
