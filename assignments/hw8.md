@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HW08 Project proposal revision and data visualization reading
-permalink: /assignments/hw3
+permalink: /assignments/hw8
 parent: Assignments
 ---
 
