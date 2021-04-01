@@ -5,7 +5,7 @@ permalink: /assignments/hw3
 parent: Assignments
 ---
 
-# Homework 2
+# Homework 3
 In this homework, you will practice writing a Python application, dealing with uncleaned data, handling potential errors, and using assert statements.  Please read the entire assignment in full before you begin. You might find some helpful information in the Resources section. 
 
 ## Learning goals
