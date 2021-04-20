@@ -67,54 +67,54 @@ Mar 19 (Fri)
 : **Break**{: .label .label-red } Mid semester break; No Classes
 
 Mar 23 (Tue)
-: Pandas/declarative computation
+: Dataframes
 
 Mar 25 (Thur)
-: Data Viz	
+:  Pandas/declarative computation
 
 Mar 26 (Fri)
 : **Recitation**{: .label .label-purple } Data Analysis
 
 Mar 30 (Tue)
-: Unit Testing	
+: Data Structures
 
 Apr 1 (Thur)
-: UI/System Testing
+: Data Structures Continued
 
 Apr 2 (Fri)
 : **Recitation**{: .label .label-purple } Data Viz
 
 Apr 6 (Tue)
-: Web Dev 1 HTML/CSS
+: Data Vizualization 
 Apr 8 (Thur)
-: Web Dev 2 Javascript/Jekyll
+: Data Vizualization (II)
 
 Apr 9 (Fri)
 : **Recitation**{: .label .label-purple } Final Project Proposal
 
 Apr 13 (Tue)
-: Branching/ Pull Requests
+: Unit Testing
 
 Apr 15 (Thur)
-: CI/Code Linter	
+: **Break**{: .label .label-red } Spring Carnival; No Classes
 
 Apr 16 (Fri)
 : **Break**{: .label .label-red } Spring Carnival; No Classes
 
 Apr 20 (Tue) 
-: Excel part 1
+: TDD/Code Writing Process
 
 Apr 22 (Thur)
-: Excel part 2
+: Python Objects	
 
 Apr 23 (Fri)
 : **Recitation**{: .label .label-purple } Data Publishing
 
 Apr 27 (Tue)
-: Data Structures 1
+: Web Dev 1 HTML/CSS 
 
 Apr 29 (Thur)
-: Data Structures 2
+: Web Dev 2 Javascript/Jekyll
 
 Apr 30 (Fri)
 : **Recitation**{: .label .label-purple } Final Project Check-in Meetings
