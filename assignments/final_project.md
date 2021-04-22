@@ -27,5 +27,4 @@ These are the important dates that you should note
 
 ## Tips and Suggestions
 - Make sure that you are setting your own deliverables and checkpoints in order to make sure you are staying on track and have enough time to complete all aspects of your project.
-- Practice your demo before class.
-- The demos should focus on 
+- Practice your demo before class. 
