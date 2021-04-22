@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Final Project
-permalink: /assignments/FinalProject
+permalink: /assignments/final-project
 parent: Assignments
 ---
 
 # Final Project
 This page contains the deadlines and important deliverables for the Final Project. Please read the entire page in full. 
 
-# Deliverables
+## Deliverables
 - The primary deliverable for each stage of the project is the application you are building. Focus on working code and writing tests over presentation quality.
 - All of your code should be pushed to your team's GitHub repository as frequently as possible and certainly before each check-in and the final deadline. 
 - On April 29 and May 6 there will be check-in demonstrations in which each team will give a ~5 minute demonstration of their application to the class. Do not prepare 
