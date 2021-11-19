@@ -2,571 +2,571 @@
     "doc": "Page Not Found",
     "title": "The page you’re looking doesn’t exist, sorry.",
     "content": " ",
-    "url": "404.html#the-page-youre-looking-doesnt-exist-sorry",
+    "url": "https://cmu-crafting-software.github.io/2020/404.html#the-page-youre-looking-doesnt-exist-sorry",
     "relUrl": "/404.html#the-page-youre-looking-doesnt-exist-sorry"
   },"1": {
     "doc": "Page Not Found",
     "title": "Page Not Found",
     "content": " ",
-    "url": "404.html",
+    "url": "https://cmu-crafting-software.github.io/2020/404.html",
     "relUrl": "/404.html"
   },"2": {
     "doc": "Announcements",
     "title": "Announcements",
     "content": "Announcements are stored in the _announcements directory and rendered according to the layout file, _layouts/announcement.html. ",
-    "url": "announcements/",
+    "url": "https://cmu-crafting-software.github.io/2020/announcements/",
     "relUrl": "/announcements/"
   },"3": {
     "doc": "Assignments",
     "title": "Assignments",
     "content": " ",
-    "url": "assignments/",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/",
     "relUrl": "/assignments/"
   },"4": {
     "doc": "Calendar",
     "title": "Calendar",
     "content": " ",
-    "url": "calendar/",
+    "url": "https://cmu-crafting-software.github.io/2020/calendar/",
     "relUrl": "/calendar/"
   },"5": {
     "doc": "Calendar",
     "title": "Tentative schedule, topic may change",
     "content": "Feb 2 (Tue) Intro Feb 4 (Thur) VCS, Code Editing and Running Feb 5 (Fri) Recitation Git/GitHub/submitting and assignment Feb 9 (Tue) File I/O HW1 due Feb 11 (Thur) Paths and directory navigation Feb 12 (Fri) Recitation WebAPIs, REST Feb 16 (Tue) Intro to Testing: Edge Cases, Coverage Feb 18 (Thur) Debugging Feb 19 (Fri) Recitation Using the Command Line and Shell Feb 23 (Tue) Break Break Day; No Classes Feb 25 (Thur) Relational Model, SQL Querying Feb 26 (Fri) Recitation RDBMS priniciples, Installing PostgreSQL Mar 2 (Tue) SQL Data Definition Language, SQL Insert Mar 4 (Thur) Indexes, Working with SQL in Python Mar 5 (Fri) Recitation Python collection manipulation Mar 9 (Tue) Querying with SQL/ACID Mar 11 (Thur) Debugging 2: Using a debugger Mar 12 (Fri) Recitation Data Querying Mar 16 (Tue) Jupyter Mar 18 (Thur) Error messages and stack overflow Mar 19 (Fri) Break Mid semester break; No Classes Mar 23 (Tue) Dataframes Mar 25 (Thur) Pandas/declarative computation Mar 26 (Fri) Recitation Data Analysis Mar 30 (Tue) Data Structures Apr 1 (Thur) Data Structures Continued Apr 2 (Fri) Recitation Data Viz Apr 6 (Tue) Data Vizualization Apr 8 (Thur) Data Vizualization (II) Apr 9 (Fri) Recitation Final Project Proposal Apr 13 (Tue) Unit Testing Apr 15 (Thur) Break Spring Carnival; No Classes Apr 16 (Fri) Break Spring Carnival; No Classes Apr 20 (Tue) TDD/Code Writing Process Apr 22 (Thur) Python Objects Apr 23 (Fri) Recitation Data Publishing Apr 27 (Tue) Web Dev 1 HTML/CSS Apr 29 (Thur) Web Dev 2 Javascript/Jekyll Apr 30 (Fri) Recitation Final Project Check-in Meetings May 4 (Tue) TBD May 6 (Thur) Performance evaluation May 7 (Fri) Recitation Final Project Check-in Meetings TBD: Final Final Project Presentation ",
-    "url": "calendar/#tentative-schedule-topic-may-change",
+    "url": "https://cmu-crafting-software.github.io/2020/calendar/#tentative-schedule-topic-may-change",
     "relUrl": "/calendar/#tentative-schedule-topic-may-change"
   },"6": {
     "doc": "Final Project",
     "title": "Final Project",
     "content": "This page contains the deadlines and important deliverables for the Final Project. Please read the entire page in full. ",
-    "url": "assignments/final-project",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/final-project",
     "relUrl": "/assignments/final-project"
   },"7": {
     "doc": "Final Project",
     "title": "Deliverables",
     "content": ". | The primary deliverable for each stage of the project is the application you are building. Focus on working code and writing tests over presentation quality. | All of your code should be pushed to your team’s GitHub repository as frequently as possible and certainly before each check-in and the final deadline. | On April 29 and May 6 there will be check-in demonstrations in which each team will give a ~5 minute demonstration of their application to the class. Do not prepare slides for these check-in demonstrations. Instead, show off how users can use your application or show your code. | In the final exam slot assigned to the class, each team will give a longer demonstration and presentation about your project. Your presentation should explain the goals of the project, how far you got toward achieving those goals, what challenges you faced, and what you would do next if you had more time. You should also demonstration your application and show off interesting bits of your code. You can prepare slides if you like for the final demonstration, but it is not required. | . ",
-    "url": "assignments/final-project#deliverables",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/final-project#deliverables",
     "relUrl": "/assignments/final-project#deliverables"
   },"8": {
     "doc": "Final Project",
     "title": "Deadlines",
     "content": "These are the important dates that you should note . | April 26th - 29th: set up a meeting with your project mentor in order to discuss your progress; come prepared with your code and any questions you have. | April 29th from 4 - 5:20 PM: demonstrate your current progress to the class. | May 3rd - 6th: set up a meeting with your project mentor in order to discuss your progress; come prepared with your code and any questions you have. | May 6th from 4 - 5:20 PM: demonstrate your current progress to the class. | May 11th from 9:30 - 11:30 AM: present your final project code and slides to the class and answer questions from the instructors and your classmates. | . ",
-    "url": "assignments/final-project#deadlines",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/final-project#deadlines",
     "relUrl": "/assignments/final-project#deadlines"
   },"9": {
     "doc": "Final Project",
     "title": "Tips and Suggestions",
     "content": ". | Make sure that you are setting your own deliverables and checkpoints in order to make sure you are staying on track and have enough time to complete all aspects of your project. | Practice your demo before class. | . ",
-    "url": "assignments/final-project#tips-and-suggestions",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/final-project#tips-and-suggestions",
     "relUrl": "/assignments/final-project#tips-and-suggestions"
   },"10": {
     "doc": "HW01  Version Control",
     "title": "Homework 1 Due Tuesday Feb 9th at 4pm EST",
     "content": "In this homework, you will be practicing using version control (git and GitHub). We will be using this throughout the course extensively. Additionally, we will be requiring you to use the command line for this assignment. ",
-    "url": "assignments/hw1#homework-1-due-tuesday-feb-9th-at-4pm-est",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw1#homework-1-due-tuesday-feb-9th-at-4pm-est",
     "relUrl": "/assignments/hw1#homework-1-due-tuesday-feb-9th-at-4pm-est"
   },"11": {
     "doc": "HW01  Version Control",
     "title": "Learning goals",
     "content": ". | Understand basic concepts of Version Control Systems (VCS) | Create Github Account | Performing basic VCS actions | Understand difference between git and GitHub | Practice VCS commands necessary for turning in homeworks | . #Tasks You will be asked to perform the following series of tasks: . | Create a GitHub account | Clone HW1 repo | Create a branch locally | Learn to manage conflicts | Push branch to github | Make a change to the student list | Open a Pull request to the main branch | . Create a Github account . You should create a free GitHub account if you do not already have one. If you are creating a new github account, you might want to consider using your andrewID, as that will make things easier for us. But you may use any account name you want. If you have an existing GitHub account, you may use that. Clone HW1 repo . There is a very simple repo that has been setup for HW1. You can find it here. You should clone the repo to a local directory on your machine. This should be done via the command line, and you should include the command(s) needed in your script to turn in. Create a branch locally . You should create a new branch of the repository, and you should name the branch with your andrewID as the name. This should be done via the command line, and you should include the command(s) needed in your script to turn in. Make a change to the student list, and commit locally, managing any conflicts that might exist . In the branch that you created, you should make a change to the ClassRoster.md file, adding your name and andrewID to the Class Roster. You should then commit that change to your local branch. Commiting should be done via the command line, and you should include the command(s) needed in your script to turn in. Push branch to github . Once you have committed your change, you should push the change on the branch to the GitHub repository. Please ensure you use a descriptive commit message! This should be done via the command line, and you should include the command(s) needed in your script to turn in. Open a Pull request to the main branch . Now that the commit is visible on the GitHub site, you should open a Pull Request from your personal branch, to the main branch. Again, don’t forget to have a descriptive message for the Pull Request. You do not need to do this via the command line, you may use the GitHub website for opening the pull request. Manage merge conflicts . Merge conflicts can be very annoying, and will be a cause of headaches for you. We want you to try and follow these steps to (artificially) create a merge conflict, so that you can merge the conflict. Here are the steps to follow: . | In the branch &lt; andrewID &gt;, create a text file called “student_facts.txt” | In this file, write what year and college you are in | Commit this change and include a message about what you just did | Create a new branch called &lt; new_andrewID &gt; and switch to that branch | Open up “student_facts.txt” and delete the previous line you wrote and now only include a sentence about a fun fact about yourself | Commit this change and include a message about what you just did | Switch back to the branch &lt; andrewID &gt; | Open up “student_facts.txt” and append to this file a sentence about what programming languages and/or coding classes you have taken | Commit this change and include a message about what you just did | While in &lt; andrewID &gt;, merge this branch with &lt; new_andrewID &gt; | You will see that there are conflicts | To resolve these conflicts, open on the file “student_facts.txt” and edit the file such that there are three different lines with (and in this order): . | A sentence about your year and major | A sentence about what programming languages and/or coding classes you have taken | A sentence with a fun fact about yourself | Commit this change and include a message about what you just did | . | While in &lt; andrewID &gt;, create a file with all of the Terminal commands you used so far The appropriate steps here should be done via the command line, and you should include the command(s) needed in your script to turn in. | . ",
-    "url": "assignments/hw1#learning-goals",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw1#learning-goals",
     "relUrl": "/assignments/hw1#learning-goals"
   },"12": {
     "doc": "HW01  Version Control",
     "title": "Resources",
     "content": ". | https://guides.github.com/ | https://guides.github.com/activities/hello-world/ | https://docs.github.com/en/desktop/installing-and-configuring-github- desktop/getting-started-with-github-desktop | https://gist.github.com/davfre/8313299 | https://docs.github.com/en/github/creating-cloning-and-archiving- repositories/cloning-a-repository | . ",
-    "url": "assignments/hw1#resources",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw1#resources",
     "relUrl": "/assignments/hw1#resources"
   },"13": {
     "doc": "HW01  Version Control",
     "title": "Tips and Suggestions",
     "content": "We are requiring you to learn to use the command line interface for this assignment. While there are several git clients (SourceTree,Github Desktop) available, and if you find yourself struggling, you might want to try using a client first, then re-doing the assignment with the command line. Writing a good commit message is hard! don’t feel bad if it takes a bit of thinking, or if you are not happy with your first version. One pro tip with git. It can often be the case that your local directory can get really messed up. Feel free to delete your local directly and start over. This is a common technique when working with git. ",
-    "url": "assignments/hw1#tips-and-suggestions",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw1#tips-and-suggestions",
     "relUrl": "/assignments/hw1#tips-and-suggestions"
   },"14": {
     "doc": "HW01  Version Control",
     "title": "Deadlines and Deliverables",
     "content": "Due Date: Tuesday Feb 9th at 4pm. You may use up to two (2) late days, out of six total. To use a late day, simply message us on slack to let us know that you will be using a late day. Deliverable: For this assignment, you have two deliverables. You will turn in a script that shows what commands you used at the command line. You should turn this in by sending it to both instructors and the TA in a group message via slack. Your commits to the repository will be viewable by us, and we will use them for grading (you might want to confirm that they are visible by using the GitHub web interface). ",
-    "url": "assignments/hw1#deadlines-and-deliverables",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw1#deadlines-and-deliverables",
     "relUrl": "/assignments/hw1#deadlines-and-deliverables"
   },"15": {
     "doc": "HW01  Version Control",
     "title": "Assignment Review",
     "content": "Because this is a new class, we are asking you to fill out a short survey to help us calibrate the homeworks. This survey is ungraded, but your input will be very valuable for us in improving the course both for this semester, and for future years. https://docs.google.com/forms/d/e/1FAIpQLSe1v3TKk8_g4IB6P2DhQ3MUgPZJC9GCzqBoLZuzEVaM9aKguA/viewform . ",
-    "url": "assignments/hw1#assignment-review",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw1#assignment-review",
     "relUrl": "/assignments/hw1#assignment-review"
   },"16": {
     "doc": "HW01  Version Control",
     "title": "Grading",
     "content": "The total assignment is worth 100 points. | Item | Points | . | Create a Github account | 20 | . | Make and commit change | 40 | . | Correctly open Pull Request | 40 | . | Total | 100 | . ",
-    "url": "assignments/hw1#grading",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw1#grading",
     "relUrl": "/assignments/hw1#grading"
   },"17": {
     "doc": "HW01  Version Control",
     "title": "HW01  Version Control",
     "content": " ",
-    "url": "assignments/hw1",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw1",
     "relUrl": "/assignments/hw1"
   },"18": {
     "doc": "HW02  Reading Data",
     "title": "Homework 2 Due Tuesday Feb 16th at 4pm EST",
     "content": "In this homework you will practice writing a python application, as well as reading data from various sources. Please read the entire assignment in full before you begin. You might find some helpful information in the Resources section. ",
-    "url": "assignments/hw2#homework-2-due-tuesday-feb-16th-at-4pm-est",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw2#homework-2-due-tuesday-feb-16th-at-4pm-est",
     "relUrl": "/assignments/hw2#homework-2-due-tuesday-feb-16th-at-4pm-est"
   },"19": {
     "doc": "HW02  Reading Data",
     "title": "Learning goals",
     "content": ". | Write a simple “hello world” python program | Run python application | Read in data from a CSV file | Store data in the application | Calculate some basic statistics from data collected | . ",
-    "url": "assignments/hw2#learning-goals",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw2#learning-goals",
     "relUrl": "/assignments/hw2#learning-goals"
   },"20": {
     "doc": "HW02  Reading Data",
     "title": "Tasks",
     "content": "You will be asked to perform the following series of tasks: . | Clone Homework Repo via GitHub Classroom. | Create and run a “Hello World” program | Read csv file of COVID data | Print COVID Data | Calculate the sum and average of any two columns in the data set | Read data directly from the covid data tracking project using their API | Show correctness by calculating a value available on the website, to confirm correctness | . Clone Homework Repo via GitHub Classroom. Your first step for this project is to configure your repository that you will be working in for this assignment. You should create a repository via Github classroom at this link: https://classroom.github.com/a/yFf56mVO You will be committing your solutions to this repo for all this homework. Create and run a “Hello World” program . In recitation you will be performing this task. You may simply copy your recitation solution for this. You should commit your solution as a single commit to your Homework Repository. Read csv file of COVID data . You should write a small program in python that will read data from a .csv file. In this class, we will be using the .csv file of data from the COVID tracking project (https://covidtracking.com/). You can find the CSV file here: https://covidtracking.com/data/download We suggest you work with the national summary data. You should download the csv file and commit it to your homework repository. Then, you should write a small program to read each line of the CSV file into your program. You should push a commit to your repository with a clear name once you have reached this point. Print COVID Data . The next step is to simply print out the data using the “print” function in your application. Once you have achieved this, you should commit this change to your repository, and push it to your repo. Calculate the sum and average of any two columns in the data set . The data in the .csv is documented by the first row in the dataset. You should choose one of the columns with numerical values, and calculate the sum of all the numbers. Then, you should calculate the average of another numerical column. To confirm these are the correct values, you should import the csv into a spreadsheet (excel, google sheets, etc), and calculate the same values, and compare them. You should then commit this code. In the commit message, you should specify which columns you used, and what the values were. Read data directly from the covid data tracking project using their API, using requests API . Another way to get the data from the covid tracking project is to use their API (Application Programming Interface). You can find the API documented here: https://covidtracking.com/data/api To get the data from the API, you will need to make a request. To make the API call, you should use the requests API: https://requests.readthedocs.io/en/master/ NOTE: installing requests might go smoothly, or it might be difficult. Please don’t hesitate to reach out, as there are lots of small things that could make this step go wrong. To confirm that you have retrieved the data, you should print it out. Then, you should commit and push this to your homework repository . Show correctness by calculating a value available on the website, to confirm correctness . To verify that you are using the data correctly, you should find a value on the website that you can calculate from the API data. You should then calculate the value, and compare it against the value on the site. Your commit message should show what the value is, and what confirm what your calculated value is. ",
-    "url": "assignments/hw2#tasks",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw2#tasks",
     "relUrl": "/assignments/hw2#tasks"
   },"21": {
     "doc": "HW02  Reading Data",
     "title": "Resources",
     "content": "Some Resources that might be helpful: Running python code in virtual env Reading a csv in python: https://realpython.com/python-csv/, https://stackoverflow.com/questions/11310248/find-number-of-columns-in-csv-file, https://docs.python-guide.org/starting/install3/osx/ . Pip installing requests: https://requests.readthedocs.io/en/master/user/install/, https://stackoverflow.com/questions/18363022/importerror-no-module-named-pip . Using requests: https://realpython.com/python-requests/, https://stackoverflow.com/questions/31126596/saving-response-from-requests-to-file, https://learning.postman.com/docs/sending-requests/requests/#creating-requests . ",
-    "url": "assignments/hw2#resources",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw2#resources",
     "relUrl": "/assignments/hw2#resources"
   },"22": {
     "doc": "HW02  Reading Data",
     "title": "Tips and Suggestions",
     "content": "To help make sure you are getting the API data correctly, you might want to use the Postman tool. If you copy code from the internet, add a comment to attribute it. ",
-    "url": "assignments/hw2#tips-and-suggestions",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw2#tips-and-suggestions",
     "relUrl": "/assignments/hw2#tips-and-suggestions"
   },"23": {
     "doc": "HW02  Reading Data",
     "title": "Deadlines and Deliverables",
     "content": "Due Date: Tuesday Feb 16th at 4pm. You may use up to two (2) late days, out of six total. To use a late day, simply message us on slack to let us know that you will be using a late day. Deliverable: For this assignment, you have one deliverable. You should commit the code you have written to your repository as you go along. When you are ready to submit, you should create a new tag, your tag should be 2.0 (for HW2). (https://git-scm.com/book/en/v2/Git-Basics-Tagging) . ",
-    "url": "assignments/hw2#deadlines-and-deliverables",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw2#deadlines-and-deliverables",
     "relUrl": "/assignments/hw2#deadlines-and-deliverables"
   },"24": {
     "doc": "HW02  Reading Data",
     "title": "Assignment Review",
     "content": "Because this is a new class, we are asking you to fill out a short survey to help us calibrate the homeworks. This survey is ungraded, but your input will be very valuable for us in improving the course both for this semester, and for future years. https://docs.google.com/forms/d/e/1FAIpQLSe1v3TKk8_g4IB6P2DhQ3MUgPZJC9GCzqBoLZuzEVaM9aKguA/viewform . ",
-    "url": "assignments/hw2#assignment-review",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw2#assignment-review",
     "relUrl": "/assignments/hw2#assignment-review"
   },"25": {
     "doc": "HW02  Reading Data",
     "title": "Grading",
     "content": "The total assignment is worth 100 points. | Item | Points | . | Program compiles and runs | 30 | . | Reads CSV data correctly | 30 | . | Reads API data correctly | 30 | . | Correct git/GitHub usage | 10 | . | Total | 100 | . ",
-    "url": "assignments/hw2#grading",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw2#grading",
     "relUrl": "/assignments/hw2#grading"
   },"26": {
     "doc": "HW02  Reading Data",
     "title": "HW02  Reading Data",
     "content": " ",
-    "url": "assignments/hw2",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw2",
     "relUrl": "/assignments/hw2"
   },"27": {
     "doc": "HW03 Defensive Programming",
     "title": "Homework 3",
     "content": "In this homework, you will practice writing a Python application, dealing with uncleaned data, handling potential errors, and using assert statements. Please read the entire assignment in full before you begin. You might find some helpful information in the Resources section. ",
-    "url": "assignments/hw3#homework-3",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw3#homework-3",
     "relUrl": "/assignments/hw3#homework-3"
   },"28": {
     "doc": "HW03 Defensive Programming",
     "title": "Learning goals",
     "content": ". | Identify problems in data programmatically | Write code to handle errors | Write asserts to catch future errors | applying previous skills, git/github and reading files | . ",
-    "url": "assignments/hw3#learning-goals",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw3#learning-goals",
     "relUrl": "/assignments/hw3#learning-goals"
   },"29": {
     "doc": "HW03 Defensive Programming",
     "title": "Tasks",
     "content": "You will be asked to perform the following series of tasks: . | Pull Changes from your repository | Confirm that you can run the starter code | Find issues in the uncleaned csv file | mitigate issues computationally | . Pull Changes from your repository . We have pushed the starter code and input data to each for your repositories, specifically to a folder titled HW3 in your homework-username directory. Confirm that you can run the starter code . You should start by confirming that you can run the starte code we provided for you in your repositories. It is called ‘cleanCSV.py’. When you run it, it should read the input csv file (‘input.csv’) and write an output csv file (‘output.csv’). The starter code should perform all the file reading and writing. When you first run it the output file will be the same as the input file. Identify problems in the uncleaned csv file . You should identify the problem we have injected into the uncleaned csv file. We have added two examples of nine types of problems to the file (a total of 18 problems). You should identify them all. Since the file is large you will be most effective in finding the problems if you search for them programmatically. You might also want to write asserts to help identify problems. To assist you, we have provided a file, problems.md, which gives a short description of each type of problem. Once you find the problems, you should write their line numbers under the appropriate category in problems.md. mitigate issues computationally . Modify starter code file so it outputs a cleaned csv. You should not repair the mangled .csv by hand. Your program should output as much of the original data as possible, but repair the problems you identified in one of the ways we discussed in class: 1) replace garbled data with default values 2) use an average of other values in the column 3) remove extraneous content 4) adds missing content 5) perform a bespoke/one-off correction. If the input data is irredeemable it is also okay to remove the line. For each of the problems you identified above, write a very short (e.g. one sentence) justification of the fix to your program. These justifications should explain why the fix you wrote was appropriate for the problem. Write these justifications immediately after each problem in problems.md. ",
-    "url": "assignments/hw3#tasks",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw3#tasks",
     "relUrl": "/assignments/hw3#tasks"
   },"30": {
     "doc": "HW03 Defensive Programming",
     "title": "Resources",
     "content": "https://www.w3schools.com/python/ref_keyword_assert.asp#:~:text=The%20assert%20keyword%20is%20used,False%2C%20check%20the%20example%20below. https://www.w3schools.com/python/ref_func_isinstance.asp https://www.askpython.com/python/examples/add-a-newline-character-in-python https://docs.python.org/3/library/datetime.html https://www.w3schools.com/python/python_casting.asp . ",
-    "url": "assignments/hw3#resources",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw3#resources",
     "relUrl": "/assignments/hw3#resources"
   },"31": {
     "doc": "HW03 Defensive Programming",
     "title": "Tips and Suggestions",
     "content": "You might want to combine automated analysis with manual inspection of the input file Add assert statements to check for correct types (ie what type should state be?) Use print statements The ‘len()’ function can check the length of a string (e.g. ‘len(“cat”) == 3’) The isinstance() function can check the type of an input (e.g. ‘assert isinstance(5, int)’) You can change the type of variables (e.g. int(“4”) become 4) As much as possible, try to avoid hard-code to catch errors. Your code should be able to catch the errors on other sets of data. For example, do not just say: if row # = 42, don’t include in new csv. We want you to use logic, so your code can be applied to any different csv files and catch the incorrect data. ",
-    "url": "assignments/hw3#tips-and-suggestions",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw3#tips-and-suggestions",
     "relUrl": "/assignments/hw3#tips-and-suggestions"
   },"32": {
     "doc": "HW03 Defensive Programming",
     "title": "Deadlines and Deliverables",
     "content": "All deliverables should be committed and pushed to the main branch of your repository on GitHub. Both are due Thursday, Feb 25th. The files that should be included in your repository (in the subdirectory hw3) should be: 1) problems.md 2) cleanCSV.py 3) input.csv 4) output.csv. Additional files are okay, but these are required. ",
-    "url": "assignments/hw3#deadlines-and-deliverables",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw3#deadlines-and-deliverables",
     "relUrl": "/assignments/hw3#deadlines-and-deliverables"
   },"33": {
     "doc": "HW03 Defensive Programming",
     "title": "HW03 Defensive Programming",
     "content": " ",
-    "url": "assignments/hw3",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw3",
     "relUrl": "/assignments/hw3"
   },"34": {
     "doc": "HW04 Using a Relational Database Management System",
     "title": "Homework 4",
     "content": "In this homework, you will build a Python application that interacts with the PostgreSQL relational database managements system. You will create a database, read data from two APIs, insert the data into the database, and queries from the database. Please read the entire assignment in full before you begin. You might find some helpful information in the Resources section. ",
-    "url": "assignments/hw4#homework-4",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw4#homework-4",
     "relUrl": "/assignments/hw4#homework-4"
   },"35": {
     "doc": "HW04 Using a Relational Database Management System",
     "title": "Skills demonstrated",
     "content": ". | Design tables and their relationships that are appropriate for a data set. | Write code to define a database. | Insert data into a database. | Query data from a database. | . ",
-    "url": "assignments/hw4#skills-demonstrated",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw4#skills-demonstrated",
     "relUrl": "/assignments/hw4#skills-demonstrated"
   },"36": {
     "doc": "HW04 Using a Relational Database Management System",
     "title": "Tasks",
     "content": "1. Retrieve COVID vaccination and state population data . | Use Python to retrieve the 2019 Census estimated population of each state for each of the following age groups: Age 85 years and older, Age 80 to 84 years, Age 75 to 79 years, Age 70 to 74 years, Age 65 to 69 years, Age 60 to 64 years, Age 55 to 59 years, Age 50 to 54 years, Age 45 to 49 years, Age 40 to 44 years, Age 35 to 39 years, Age 30 to 34 years, Age 25 to 29 years, Age 20 to 24 years, Age 15 to 19 years, Age 10 to 14 years, Age 5 to 9 years, Age 0 to 4 years. Use the Census “charagegroups” API. Refer back to the in-class from February 12 for examples of use. | Use Python to retrieve the COVID testing data for every state from each day using The Covid Tracking Project. It’s probably easiest to load the data from a file, but you can also use the API if you prefer. You will ultimately store this data in the database. For now, read from the APIs and files and assign the result to Python variables. | . 2. Create database tables . | Design a reasonable table layout for the data retrieved in the previous step. Use at least two tables and choose reasonable relationships between tables. Every table should have a primary key. Use foreign key(s) to preserve referential integrity. | Write SQL data definition language (DDL) code to create the tables you designed. Be sure to choose reasonable datatypes for each column and use primary and foreign keys where appropriate. | At the minimum your tables should include the following columns across all the tables. You can discard other data from step 1 or add additional columns: state_code, state_name, age_group_id, age_group_description, population, test_date, negative_increase, positive_increase, total_test_results_increase. | Save your SQL DDL code in a file called createTables.sql. | Create the tables in your database using the SQL DDL code you wrote. | . 3. Insert the retrieved data into tables . | Use Python to insert all of the data retrieved in step 1 above into the database defined in Step 2. | . 4. Query the database . Use Python to query the database and print out answers to the following below. Feel free to use any combination of SQL queries and Python code to answer the question. | Which state has the lowest percentage of people aged 85 years and older? Print the name of the state, the percentage, to 85+ population, and the total population. | Which state had the most positive tests per capita in a single day? Print the name of state, the day, the number of positive tests per capita, the population of the state, and the number of positive tests. | The Python code you wrote in this step, step 1, and step 3 should be save in a file called readAndInsert.py. | . ",
-    "url": "assignments/hw4#tasks",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw4#tasks",
     "relUrl": "/assignments/hw4#tasks"
   },"37": {
     "doc": "HW04 Using a Relational Database Management System",
     "title": "Resources",
     "content": ". | https://github.com/cmu-crafting-software/in-class/tree/main/feb-12-apis | https://api.census.gov/data/2019/pep/charagegroups/variables.html | https://api.census.gov/data/2019/pep/charagegroups/variables/AGEGROUP.json | . ",
-    "url": "assignments/hw4#resources",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw4#resources",
     "relUrl": "/assignments/hw4#resources"
   },"38": {
     "doc": "HW04 Using a Relational Database Management System",
     "title": "Deadline and deliverables",
     "content": "The Homework is due at 4pm EST on Tuesday, March 9. Please hand in the following files by pushing them to your homework repository in a directory called HW4: . | creatTables.sql | readAndInsert.py | . ",
-    "url": "assignments/hw4#deadline-and-deliverables",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw4#deadline-and-deliverables",
     "relUrl": "/assignments/hw4#deadline-and-deliverables"
   },"39": {
     "doc": "HW04 Using a Relational Database Management System",
     "title": "HW04 Using a Relational Database Management System",
     "content": " ",
-    "url": "assignments/hw4",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw4",
     "relUrl": "/assignments/hw4"
   },"40": {
     "doc": "HW05 Advanced Data Management System",
     "title": "Homework 5",
     "content": "In this homework, you will continue working with your python application that interacts with an RDBMS (Relational Database Management System). This work will build on your HW4 solution. Please read the entire assignment in full before you begin. You might find some helpful information in the Resources section. ",
-    "url": "assignments/hw5#homework-5",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw5#homework-5",
     "relUrl": "/assignments/hw5#homework-5"
   },"41": {
     "doc": "HW05 Advanced Data Management System",
     "title": "Learning goals",
     "content": ". | Demonstrate ability to use database features like views, transactions, and indexes | Generate random data for testing database performance | Applying previous skills, git/github and reading files | . ",
-    "url": "assignments/hw5#learning-goals",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw5#learning-goals",
     "relUrl": "/assignments/hw5#learning-goals"
   },"42": {
     "doc": "HW05 Advanced Data Management System",
     "title": "Tasks",
     "content": "You will be asked to perform the following series of tasks: . | Create a view in your table | Create a transaction to make at least two changes do the DB in a single transaction | Create random data to test our database | Join existing data with random data | Add an index to your table and measure a change in performance | . Create a view in your table . You should create a view of a query. Your view should show the population for each state for all ages, and all ages only. You should name your view something that makes it clear that it is all ages population. You should perform these commands via a python script. You can start with your answer to hw4, and add the creation of a view. HINT: the “ OR REPLACE” keyword might come in handy to be able to re-run your script multiple times. Create a transaction to make at least two changes do the DB in a single transaction . You should create a transaction in your database. Your transaction should alter at least two rows in the transaction. You may choose which two rows to alter. You should print out the values of the rows first, then perform the transaction, then print the new values. This should also be done in your python script. Create random data to test our database . In order to be able to test an index, we will need more data. To do this, you should create a new table, and fill it with random data. This can be done with the following SQL commands. CREATE TABLE rand_state_data( rand_id SERIAL PRIMARY KEY, rand_state_code numeric NOT NULL, rand_value NUMERIC NOT NULL ); . INSERT INTO rand_state_data (rand_state_code,rand_value) SELECT ((random() * 49)+1)::integer, ((random() * 99) + 1)::integer FROM generate_series(1, 10000000); . NOTE: this only needs to be done one time, and it might take a while to run on your computer. You can do this directly from SQL, you do not need to do this from python. Join existing data with random data . You should count the number of random values that are greater than 80 for each state in your census data table. Your number will be slightly different than other students in the class. This should be done via a single SQL statement. You should join both tables, and count the number with a rand_value greater than 80. This query might take a while to run. You should run this query via your python script. Add an index to your table and measure a change in performance . We will speed up this query using at least one index. You should first run the query you created in the step above without the index created. You should observe and record the exact timing of the run with the “EXPLAIN ANALYZE” feature. Then, you should create at least one index that you think will speed it up. Then you should re-run the query with EXPLAIN ANALYZE with the index, and record what the speed up was. You should try adding a second index, and observe if there is a performance gain. You should copy the output of your script, including the recorded exectution times before and after the index, and commit them to your repo in a text file called SQLResults.txt. HINT: You might need to delete the index if you want to try doing this several times. ",
-    "url": "assignments/hw5#tasks",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw5#tasks",
     "relUrl": "/assignments/hw5#tasks"
   },"43": {
     "doc": "HW05 Advanced Data Management System",
     "title": "Resources",
     "content": "https://www.postgresql.org/docs/current/sql-createview.html https://www.postgresql.org/docs/current/transaction-iso.html https://www.postgresql.org/docs/13/sql-createindex.html . ",
-    "url": "assignments/hw5#resources",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw5#resources",
     "relUrl": "/assignments/hw5#resources"
   },"44": {
     "doc": "HW05 Advanced Data Management System",
     "title": "Deadlines and Deliverables",
     "content": "The deliverable should be committed and pushed to the main branch of your repository on GitHub. It is due Thursday, March 18th. The files that should be included in your repository (in a subdirectory hw5) should be: 1) hw5.py 2) SQLResults.txt. Additional files are okay, but these are required. ",
-    "url": "assignments/hw5#deadlines-and-deliverables",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw5#deadlines-and-deliverables",
     "relUrl": "/assignments/hw5#deadlines-and-deliverables"
   },"45": {
     "doc": "HW05 Advanced Data Management System",
     "title": "HW05 Advanced Data Management System",
     "content": " ",
-    "url": "assignments/hw5",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw5",
     "relUrl": "/assignments/hw5"
   },"46": {
     "doc": "HW06 Final Project Proposal",
     "title": "Homework 6: Final Project Proposal",
     "content": "The goal for the final project is for you to make use of the skills you’ve learned in the course in an independent, open-ended context. The project should be a stand-alone application that interacts with data and shareable with a wider community. An ideal final project will be related to your research or main course of study. Ideally you will work with one partner, but it is also acceptable to work alone. Everyone should write a project proposal, but there will be a matchmaking phase later where you can join another project or merge your project with another student’s project. Defining and implementing the project will be an iterative process which will include many rounds of feedback and conversation with the course staff. The goal of the proposal is to start those conversations. Project templates . We are flexible about the project you propose, as long as it makes use of the skills you have learned in the class. You may find it helpful to consider one of the following project templates to help you develop your proposal: . | Start a new data analysis project for your research and develop it to the point that it is shareable. One good output could be a companion website for a research paper. | Take a coding project you’ve completed and turn it into a shareable application that others can use on similar data. | Develop a support utility for your lab, research group, or department. | . Deadlines and deliverables . Your proposal should include a short project title and 2-3 paragraphs describing the purpose and scope of the project. The proposal is due on Thursday March 25 at 4pm EDT. Your writeup should address the following questions: . | What is the audience for your project? Who might use it if you succeed? For what purpose? | What are the set of features in your minimum-viable product? | What other features will you include? | How will you implement each feature? Which technologies will you use? | . ",
-    "url": "assignments/hw6#homework-6-final-project-proposal",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw6#homework-6-final-project-proposal",
     "relUrl": "/assignments/hw6#homework-6-final-project-proposal"
   },"47": {
     "doc": "HW06 Final Project Proposal",
     "title": "HW06 Final Project Proposal",
     "content": " ",
-    "url": "assignments/hw6",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw6",
     "relUrl": "/assignments/hw6"
   },"48": {
     "doc": "HW07 Pandas",
     "title": "Homework 7",
     "content": "In this homework, you will be working with Pandas in a Juypter notebook. Please read the entire assignment in full before you begin. You might find some helpful information in the Resources section. ",
-    "url": "assignments/hw7#homework-7",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw7#homework-7",
     "relUrl": "/assignments/hw7#homework-7"
   },"49": {
     "doc": "HW07 Pandas",
     "title": "Learning goals",
     "content": ". | Import data into a notebook | Answer questions by analyzing the data frame | Join two data frames | Follow best practices for notebook use | . ",
-    "url": "assignments/hw7#learning-goals",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw7#learning-goals",
     "relUrl": "/assignments/hw7#learning-goals"
   },"50": {
     "doc": "HW07 Pandas",
     "title": "Tasks",
     "content": "For this assignment, you will be doing pandas tasks, and you will share your solution in a Jupyter notebook. You will be asked to perform the following series of tasks, all in Jupyter notebook: . | Import data into a dataframe from your SQL Database | Add a column to the covid data that indicates what day of the week each day represents | Find the average number of increase in test results by day of the week (i.e., the avg number of test results increase on mondays, tuesdays, etc) | Join data frames | Add a new column to the data frame that is the per capita hospitalized number (hospitalizedCurrently/ total number of residents). | Avoid hidden state errors | . Import data into a dataframe from your SQL Database . You should import the COVID data and the Census data from your database. You may reuse code from the previous homework, if you find that helpful. You should import each dataset into a dataframe each, and you will use these dataframes for the rest of the homework. Add a column to the covid data that indicates what day of the week each day represents . You should add a new column to the covid dataframe that represents the day of the week. You can use strings or numbers to represent the day of the week. (its ok if you want to do both a number and a string). Find the average number of increase in test results by day of the week (i.e., the avg number of test results increase on mondays, tuesdays, etc). Using pandas, you should calculate (and print) the average number of increased tests result by day of the week. NOTE: you might want to plot this data. We will talk about visualizations in depth later on, but for now, you may plot the data if you want, but you are not required to. Join data frames . Join both dataframes, the covid and the census data. You should join them on states, as we have done previously. You should also create new dataframe that you can use for the following question. Add a new column to the data frame that is the per capita hospitalized number (hospitalizedCurrently/ total number of residents). Add a new column to the combined dataframe that is per capita hospitalizations. Avoid hidden state errors . Throughout this homework, you should follow best practices as we described in lecture. Specifically, you should avoid relying on hidden state. This means that you should be able to run your cells in any order, and get the same results. You should not have any 2 cells that write to the same object in shared state, but you may read the same object several times. ",
-    "url": "assignments/hw7#tasks",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw7#tasks",
     "relUrl": "/assignments/hw7#tasks"
   },"51": {
     "doc": "HW07 Pandas",
     "title": "Bonus Challenge:",
     "content": "Calculate a statistical test to see if there is a statistical difference between weekend deaths vs weekday deaths. ",
-    "url": "assignments/hw7#bonus-challenge",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw7#bonus-challenge",
     "relUrl": "/assignments/hw7#bonus-challenge"
   },"52": {
     "doc": "HW07 Pandas",
     "title": "Resources",
     "content": "https://pandas.pydata.org/docs/user_guide/merging.html https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.sort_index.html https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html . ",
-    "url": "assignments/hw7#resources",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw7#resources",
     "relUrl": "/assignments/hw7#resources"
   },"53": {
     "doc": "HW07 Pandas",
     "title": "Tips and Suggestions",
     "content": "To calculate the day of the week, consider reading the datetime documentation: https://docs.python.org/3/library/datetime.html To calculate information by day of the week, considering which information to make the index of the DataFrame and the various index operations available . ",
-    "url": "assignments/hw7#tips-and-suggestions",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw7#tips-and-suggestions",
     "relUrl": "/assignments/hw7#tips-and-suggestions"
   },"54": {
     "doc": "HW07 Pandas",
     "title": "Deadlines and Deliverables",
     "content": "The deliverable should be committed and pushed to the main branch of your repository on GitHub. It is due Thursday, March 18th. Your notebook file (i.e.ipynb) file should be committed and pushed to your homework repository in a hw7 subdirectory. ",
-    "url": "assignments/hw7#deadlines-and-deliverables",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw7#deadlines-and-deliverables",
     "relUrl": "/assignments/hw7#deadlines-and-deliverables"
   },"55": {
     "doc": "HW07 Pandas",
     "title": "HW07 Pandas",
     "content": " ",
-    "url": "assignments/hw7",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw7",
     "relUrl": "/assignments/hw7"
   },"56": {
     "doc": "HW08 Project proposal revision and data visualization reading",
     "title": "Homework 8",
     "content": "This homework has two unrelated parts: . | Revision of project proposal with team | Visualization reading | . The parts are described in detail below. ",
-    "url": "assignments/hw8#homework-8",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw8#homework-8",
     "relUrl": "/assignments/hw8#homework-8"
   },"57": {
     "doc": "HW08 Project proposal revision and data visualization reading",
     "title": "Revision of project proposal with team",
     "content": "Write a revised project proposal. Your revised proposal should list all of the members of your team. The proposal can be based on the proposal one of the teamates submitted, can merge ideas from two proposals, or propose something entirely new. We strongly suggest you work with 1 or 2 others, but it is also acceptable to work alone. The revised proposal should meet all of the requirements described in HW6: . Your proposal should include a short project title and 2-3 paragraphs describing the purpose and scope of the project. Your writeup should address the following questions: . | What is the audience for your project? Who might use it if you succeed? For what purpose? | What are the set of features in your minimum-viable product? | What other features will you include? | How will you implement each feature? Which technologies will you use? | . Please consider carefully each technology and feature choice. Motivate why the particular technology choice is appropriate. ",
-    "url": "assignments/hw8#revision-of-project-proposal-with-team",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw8#revision-of-project-proposal-with-team",
     "relUrl": "/assignments/hw8#revision-of-project-proposal-with-team"
   },"58": {
     "doc": "HW08 Project proposal revision and data visualization reading",
     "title": "Visualization reading",
     "content": "In class on Tuesday we will be discussion data visualization. In particular, we will be working with the Vega-Lite “grammar of interactive graphics.” To understand that tool, it is helpful to have a general understanding of types of charts that are commonly used and their varieties. Please read A Tour through the Visualization Zoo before class on Tuesday. Be prepared to discuss the chart types discussed in the paper, the types of charts you’ve used before, and which types you might use in your final project. ",
-    "url": "assignments/hw8#visualization-reading",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw8#visualization-reading",
     "relUrl": "/assignments/hw8#visualization-reading"
   },"59": {
     "doc": "HW08 Project proposal revision and data visualization reading",
     "title": "Deadline",
     "content": "This homework is due before class (4pm EDT) on Tuesday, April 6. ",
-    "url": "assignments/hw8#deadline",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw8#deadline",
     "relUrl": "/assignments/hw8#deadline"
   },"60": {
     "doc": "HW08 Project proposal revision and data visualization reading",
     "title": "HW08 Project proposal revision and data visualization reading",
     "content": " ",
-    "url": "assignments/hw8",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw8",
     "relUrl": "/assignments/hw8"
   },"61": {
     "doc": "HW09 Visualization",
     "title": "Homework 9",
     "content": "In this homework, you will be working with Altair in a Juypter notebook. Please read the entire assignment in full before you begin. You might find some helpful information in the Resources section. ",
-    "url": "assignments/hw9#homework-9",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw9#homework-9",
     "relUrl": "/assignments/hw9#homework-9"
   },"62": {
     "doc": "HW09 Visualization",
     "title": "Learning goals",
     "content": ". | Understand Altair, Data Types, Graphical Marks, and Visual Encoding Channels | Make informative graphs using data visualizations we discussed | Interact and transform the data | Iterate over graphs and select features that best show the data | . ",
-    "url": "assignments/hw9#learning-goals",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw9#learning-goals",
     "relUrl": "/assignments/hw9#learning-goals"
   },"63": {
     "doc": "HW09 Visualization",
     "title": "Tasks",
     "content": "For this assignment, you will be doing Altair tasks, and you will share your solution in a Jupyter notebook. You will be asked to perform the following series of tasks, all in jupyter notebook: . | Import the COVID data (either through requests or through a CSV). | In a cell, write a comment that gives an example of Nominal, Ordinal, Quantitative, and Temporal data using the columns in the COVID dataset. | Start by creating a default graph where you visualize the relationships between two columns in the data using a default graph (using mark_point). | Modify the previous mark_point graph and use visualization elements and arguments to make the graphs easier for users to read and understand. | Using the previous two columns, make three new visualizations, choosing from mark_area(), mark_bar(), mark_circle(), mark_line(), mark_rect(), mark_rule(), mark_square(), mark_text(), mark_tick(). For each one, describe a pro and con to using this graph to visualize the data. For each one, also write a comment of what this type of graph allowed you to observe about the data. | Make another visualization, choosing from mark_area(), mark_bar(), mark_circle(), mark_line(), mark_rect(), mark_rule(), mark_square(), mark_text(), mark_tick(), where you transform the data (such as bins, averages, etc). Write a comment of what you observe about the data. | . ",
-    "url": "assignments/hw9#tasks",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw9#tasks",
     "relUrl": "/assignments/hw9#tasks"
   },"64": {
     "doc": "HW09 Visualization",
     "title": "Bonus Challenge:",
     "content": "Find an example visualization from the Altair Example Gallery (https://altair-viz.github.io/gallery/), and copy the code into your own notebook, and get it to work with your data source (the COVID dataset). ",
-    "url": "assignments/hw9#bonus-challenge",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw9#bonus-challenge",
     "relUrl": "/assignments/hw9#bonus-challenge"
   },"65": {
     "doc": "HW09 Visualization",
     "title": "Resources",
     "content": "https://uwdata.github.io/visualization-curriculum/altair_introduction.html . ",
-    "url": "assignments/hw9#resources",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw9#resources",
     "relUrl": "/assignments/hw9#resources"
   },"66": {
     "doc": "HW09 Visualization",
     "title": "Tips and Suggestions",
     "content": "When making your graphs, do not try to do everything at once. First make sure the data is showing on the graphs, then start adding other elements/parameters. ",
-    "url": "assignments/hw9#tips-and-suggestions",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw9#tips-and-suggestions",
     "relUrl": "/assignments/hw9#tips-and-suggestions"
   },"67": {
     "doc": "HW09 Visualization",
     "title": "Deadlines and Deliverables",
     "content": "The deliverable should be committed and pushed to the main branch of your repository on GitHub. It is due Tuesday, April 20th. Your notebook file (i.e.ipynb) file should be committed and pushed to your homework repository in a hw9 subdirectory. ",
-    "url": "assignments/hw9#deadlines-and-deliverables",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw9#deadlines-and-deliverables",
     "relUrl": "/assignments/hw9#deadlines-and-deliverables"
   },"68": {
     "doc": "HW09 Visualization",
     "title": "HW09 Visualization",
     "content": " ",
-    "url": "assignments/hw9",
+    "url": "https://cmu-crafting-software.github.io/2020/assignments/hw9",
     "relUrl": "/assignments/hw9"
   },"69": {
     "doc": "Software Crafting",
     "title": "17-450/17-950 Crafting Software",
     "content": "Welcome to Crafting Software . Do you use programming to solve problems in your field of study? Do you know enough to be dangerous, but wish you could be proud of your code? This course aims to provide students with sufficient knowledge and skills to use programming as part of their work. In this class, you will learn how to identify and find problems in your code. You will learn to read, parse, organize, and transform data. We will teach you to write code collaboratively and refine your programs so others can use them.The course will be a mixture of lecture and guided exercise with a recitation focused on hands on instruction. In this course, students are expected to have been exposed to some basic programming concepts, such as variables, if-statements, loops, and arrays. However, students are not expected to have extensive programming experience. This course is not appropriate for students that have completed more than two courses involving programming. We expect students in this class to have diverse backgrounds and experience. Some students will be self-taught, while others will have taken a programming course such as 02-201, 15-110, 95-898, or the library’s Software Carpentry workshop. Learning Goals . | Identify the common resources available for developing software and evaluate the quality of the content. | Understand important rules and conventions of software systems. | Understand and apply common languages and tools used to develop real-world software. | Apply collaborative work strategies when developing software. | Analyze alternative software tools and select appropriate choices for the problem. | Analyze software to diagnose problems and create solutions. | Create and deploy a web application that reads, parses, and analyzes data. | . Structure of the course . Meets twice weekly Most classes will include both a lecture and a collaborative in-class exercise There will be weekly homework assignments for students to practice that week’s material There will be a summative final project, in which students will integrate the tools and techniques they have learned into a cohesive whole. Evaluation in the course will be approximately as follows: . | Homeworks: 50% | Quizzes: 10% | Final project: 30% | Participation: 10% | . ",
-    "url": "#17-45017-950-crafting-software",
+    "url": "https://cmu-crafting-software.github.io/2020/#17-45017-950-crafting-software",
     "relUrl": "/#17-45017-950-crafting-software"
   },"70": {
     "doc": "Software Crafting",
     "title": "Software Crafting",
     "content": " ",
-    "url": "",
+    "url": "https://cmu-crafting-software.github.io/2020/",
     "relUrl": "/"
   },"71": {
     "doc": "Resources",
     "title": "git/GitHub",
     "content": "github cheatsheet . git tower cheatsheet . How to cite files . Learning Git . Learning Vim adventure game . ",
-    "url": "resources/#gitgithub",
+    "url": "https://cmu-crafting-software.github.io/2020/resources/#gitgithub",
     "relUrl": "/resources/#gitgithub"
   },"72": {
     "doc": "Resources",
     "title": "Resources",
     "content": "#Resources . ",
-    "url": "resources/",
+    "url": "https://cmu-crafting-software.github.io/2020/resources/",
     "relUrl": "/resources/"
   },"73": {
     "doc": "Schedule",
     "title": "Weekly Schedule",
     "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
-    "url": "schedule/#weekly-schedule",
+    "url": "https://cmu-crafting-software.github.io/2020/schedule/#weekly-schedule",
     "relUrl": "/schedule/#weekly-schedule"
   },"74": {
     "doc": "Schedule",
     "title": "Monday",
     "content": "| ",
-    "url": "schedule/",
+    "url": "https://cmu-crafting-software.github.io/2020/schedule/",
     "relUrl": "/schedule/"
   },"75": {
     "doc": "Schedule",
     "title": "Tuesday",
     "content": ". | Lecture 4:00 PM–5:20 PM REMOTE | . | ",
-    "url": "schedule/",
+    "url": "https://cmu-crafting-software.github.io/2020/schedule/",
     "relUrl": "/schedule/"
   },"76": {
     "doc": "Schedule",
     "title": "Wednesday",
     "content": "| ",
-    "url": "schedule/",
+    "url": "https://cmu-crafting-software.github.io/2020/schedule/",
     "relUrl": "/schedule/"
   },"77": {
     "doc": "Schedule",
     "title": "Thursday",
     "content": ". | Lecture 4:00 PM–5:20 PM REMOTE | . | ",
-    "url": "schedule/",
+    "url": "https://cmu-crafting-software.github.io/2020/schedule/",
     "relUrl": "/schedule/"
   },"78": {
     "doc": "Schedule",
     "title": "Friday",
     "content": ". | Recitation 10:30 AM–11:20 AM REMOTE | . | . ",
-    "url": "schedule/",
+    "url": "https://cmu-crafting-software.github.io/2020/schedule/",
     "relUrl": "/schedule/"
   },"79": {
     "doc": "Schedule",
     "title": "Schedule",
     "content": " ",
-    "url": "schedule/",
+    "url": "https://cmu-crafting-software.github.io/2020/schedule/",
     "relUrl": "/schedule/"
   },"80": {
     "doc": "Staff",
     "title": "Staff",
     "content": " ",
-    "url": "staff/",
+    "url": "https://cmu-crafting-software.github.io/2020/staff/",
     "relUrl": "/staff/"
   },"81": {
     "doc": "Staff",
     "title": "Instructors",
     "content": "Josh Sunshine . sunshine@cs.cmu.edu . Michael Hilton . mhilton@cmu.edu . Schedule an appointment . ",
-    "url": "staff/#instructors",
+    "url": "https://cmu-crafting-software.github.io/2020/staff/#instructors",
     "relUrl": "/staff/#instructors"
   },"82": {
     "doc": "Staff",
     "title": "Teaching Assistants",
     "content": "Charlotte Simpson . csimpson@andrew.cmu.edu . ",
-    "url": "staff/#teaching-assistants",
+    "url": "https://cmu-crafting-software.github.io/2020/staff/#teaching-assistants",
     "relUrl": "/staff/#teaching-assistants"
   },"83": {
     "doc": "Syllabus",
     "title": "Syllabus",
     "content": " ",
-    "url": "syllabus/",
+    "url": "https://cmu-crafting-software.github.io/2020/syllabus/",
     "relUrl": "/syllabus/"
   },"84": {
     "doc": "Syllabus",
     "title": "Learning goals",
     "content": "Identify the common resources available for developing software and evaluate the quality of the content. Understand important rules and conventions of software systems. Understand and apply common languages and tools used to develop real-world software. Apply collaborative work strategies when developing software. Analyze alternative software tools and select appropriate choices for the problem. Analyze software to diagnose problems and create solutions. Create and deploy a web application that reads, parses, and analyzes data. ",
-    "url": "syllabus/#learning-goals",
+    "url": "https://cmu-crafting-software.github.io/2020/syllabus/#learning-goals",
     "relUrl": "/syllabus/#learning-goals"
   },"85": {
     "doc": "Syllabus",
     "title": "Structure of the course",
     "content": "Most classes will include both a lecture and a collaborative in-class exercise There will be weekly homework assignments for students to practice that week’s material There will be a summative final project, in which students will integrate the tools and techniques they have learned into a cohesive whole. ",
-    "url": "syllabus/#structure-of-the-course",
+    "url": "https://cmu-crafting-software.github.io/2020/syllabus/#structure-of-the-course",
     "relUrl": "/syllabus/#structure-of-the-course"
   },"86": {
     "doc": "Syllabus",
     "title": "Evaluation in the course will be approximately as follows:",
     "content": ". | Homeworks: 50% | Quizzes: 10% | Final project: 30% | Participation: 10% | . ",
-    "url": "syllabus/#evaluation-in-the-course-will-be-approximately-as-follows",
+    "url": "https://cmu-crafting-software.github.io/2020/syllabus/#evaluation-in-the-course-will-be-approximately-as-follows",
     "relUrl": "/syllabus/#evaluation-in-the-course-will-be-approximately-as-follows"
   },"87": {
     "doc": "Syllabus",
     "title": "Late days",
     "content": "For the homeworks, you will have a total of six (6) late days. You may use up to two (2) late days per assignment. To use a late day, you need to to message the course staff in a private message on slack, informing us that you will be using a late day. ",
-    "url": "syllabus/#late-days",
+    "url": "https://cmu-crafting-software.github.io/2020/syllabus/#late-days",
     "relUrl": "/syllabus/#late-days"
   },"88": {
     "doc": "Syllabus",
     "title": "Logistics and People",
     "content": ". | Main class: Tuesday, Thursday 4:00-5:20pm (offered over zoom) | Recitation: Friday 10:30-11:20am (offered over zoom) | . ",
-    "url": "syllabus/#logistics-and-people",
+    "url": "https://cmu-crafting-software.github.io/2020/syllabus/#logistics-and-people",
     "relUrl": "/syllabus/#logistics-and-people"
   },"89": {
     "doc": "Syllabus",
     "title": "Instructors:",
     "content": ". | Michael Hilton (mhilton@cmu.edu) | Josh Sunshine (sunshine@cs.cmu.edu) | . ",
-    "url": "syllabus/#instructors",
+    "url": "https://cmu-crafting-software.github.io/2020/syllabus/#instructors",
     "relUrl": "/syllabus/#instructors"
   },"90": {
     "doc": "Syllabus",
     "title": "Research in the course.",
     "content": "For this class, we are conducting research on teaching and learning. This research will involve some student work. You will not be asked to do anything above and beyond the normal learning activities and assignments that are part of this course. You are free not to participate in this research, and your participation will have no influence on your grade for this course or your academic career at CMU. If you do not wish to participate, please send an email to Chad Hershock (hershock@andrew.cmu.edu). Participants will not receive any compensation. The data collected as part of this research will include student grades. All analyses of data from participants’ coursework will be conducted after the course is over and final grades are submitted. The Eberly Center may provide support on this research project regarding data analysis and interpretation. The Eberly Center for Teaching Excellence &amp; Educational Innovation is located on the CMU-Pittsburgh Campus and its mission is to support the professional development of all CMU instructors regarding teaching and learning. To minimize the risk of breach of confidentiality, the Eberly Center will never have access to data from this course containing your personal identifiers. All data will be analyzed in de-identified form and presented in the aggregate, without any personal identifiers. If you have questions pertaining to your rights as a research participant, or to report concerns to this study, please contact Chad Hershock (hershock@andrew.cmu.edu). ",
-    "url": "syllabus/#research-in-the-course",
+    "url": "https://cmu-crafting-software.github.io/2020/syllabus/#research-in-the-course",
     "relUrl": "/syllabus/#research-in-the-course"
   },"91": {
     "doc": "Syllabus",
     "title": "Professionalism.",
     "content": "Your classmates are your colleagues. This is particularly true in this course, where we aim to provide you with principles, practices, tools, and paradigms that will enable you to be an effective, real-world Software Engineer. We ask that you treat one another like the professionals you are and that you are preparing to be. To that end, we will not tolerate harassment in this class. We define harassment as unwelcome or hostile behavior of an ad hominem nature, i.e., that focuses not on ideas but on people and identity. This includes offensive verbal or written comments in reference to gender, sexual orientation, disability, physical appearance, race, or religion; sexual images in public spaces; deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of class meetings, inappropriate physical contact, and unwelcome sexual attention. Harassment is against the law and we have no tolerance for it, and neither does the university. Even when behavior does not rise to the level of harassment (even if you think you’re “just joking!”), it can still make people very uncomfortable, and harm their educational and professional career by forcing them to devote mental energy to something other than the material they are trying to learn or the professional successes they are trying to achieve. However, we expect that we do not need to threaten you to earn your respect on this matter: we simply ask that you treat one another like professionals, in the most positive sense. This has two implications: If you feel someone is violating these principles (for example, with a joke that could be interpreted as sexist, racist, or exclusionary), and you feel you have the standing to do so, speak up! Do not be a bystander to unprofessional behavior. If you do not feel comfortable doing so, and/or if the behavior persists, send a private email to the course instructors or set up a meeting with us to discuss the matter. We will preserve your anonymity. We, the course staff, are committed to affording you the same respect we ask you to afford one another. If you feel that we are not doing so, we hope you will feel comfortable either telling us so directly, or approaching another one of the course staff with your concerns. (Thank you to Shriram Krishnamurthi and Evan Peck for sharing their own policies, from which we drew inspiration for this one.) . ",
-    "url": "syllabus/#professionalism",
+    "url": "https://cmu-crafting-software.github.io/2020/syllabus/#professionalism",
     "relUrl": "/syllabus/#professionalism"
   },"92": {
     "doc": "Syllabus",
     "title": "Academic honesty and collaboration.",
     "content": "The usual policies apply, especially the University Policy on Academic Integrity. Many of the assignments will be done in groups. We expect that group members collaborate with one another, but that groups work independently from one another, not exchanging results with other groups. Within groups, we expect that you are honest about your contribution to the group’s work. This implies not taking credit for others’ work and not covering for team members that have not contributed to the team. Otherwise, our expectations regarding academic honestly and collaboration for group work are the same as for individual work, substituting elevated to the level of “group.” The course includes both individual assignments and individual components of group assignments. Although your solutions for individual parts will be based on the content produced for the group component (e.g., written reflections on lessons learned), we treat individual components of group assignments as equivalent to individual assignments overall, and expect you to complete such components independently of your groupmates. You may not copy any part of a solution to a problem that was written by another student, or was developed together with another student, or was copied from another unauthorized source such as the Internet. You may not look at another student’s solution, even if you have completed your own, nor may you knowingly give your solution to another student or leave your solution where another student can see it. Here are some examples of behavior that are inappropriate: Copying or retyping, or referring to, files or parts of files (such as source code, written text, or unit tests) from another person or source (whether in final or draft form, regardless of the permissions set on the associated files) while producing your own. This is true even if your version includes minor modifications such as style or variable name changes or minor logic modifications. Getting help that you do not fully understand, and from someone whom you do not acknowledge on your solution. Writing, using, or submitting a program that attempts to alter or erase grading information or otherwise compromise security of course resources. Lying to course staff. Giving copies of work to others, or allowing someone else to copy or refer to your code or written assignment to produce their own, either in draft or final form. This includes making your work publicly available in a way that other students (current or future) can access your solutions, even if others’ access is accidental or incidental to your goals. Beware the privacy settings on your open source accounts! Coaching others step-by-step without them understanding your help. If any of your work contains any statement that was not written by you, you must put it in quotes and cite the source. If you are paraphrasing an idea you read elsewhere, you must acknowledge the source. Using existing material without proper citation is plagiarism, a form of cheating. If there is any question about whether the material is permitted, you must get permission in advance. It is not considered cheating to clarify vague points in the assignments, lectures, lecture notes; to give help or receive help in using the computer systems, compilers, debuggers, profilers, or other facilities; or to discuss ideas at a very high level, without referring to or producing code. Any violation of this policy is cheating. The minimum penalty for cheating (including plagiarism) will be a zero grade for the whole assignment. Cheating incidents will also be reported through University channels, with possible additional disciplinary action (see the above-linked University Policy on Academic Integrity). If you have any question about how this policy applies in a particular situation, ask the instructors for clarification. Note that the instructors respect honesty in these (and indeed most!) situations. ",
-    "url": "syllabus/#academic-honesty-and-collaboration",
+    "url": "https://cmu-crafting-software.github.io/2020/syllabus/#academic-honesty-and-collaboration",
     "relUrl": "/syllabus/#academic-honesty-and-collaboration"
   },"93": {
     "doc": "Syllabus",
     "title": "Accommodations.",
     "content": "If you wish to request an accommodation due to a documented disability, please inform the instructor as soon as possible and contact Disability Resources at 412.268.2013 or access@andrew.cmu.edu. ",
-    "url": "syllabus/#accommodations",
+    "url": "https://cmu-crafting-software.github.io/2020/syllabus/#accommodations",
     "relUrl": "/syllabus/#accommodations"
   },"94": {
     "doc": "Syllabus",
     "title": "A note on self care.",
     "content": "Please take care of yourself. Do your best to maintain a healthy lifestyle this semester by eating well, exercising, avoiding drugs and alcohol, getting enough sleep and taking some time to relax. This will help you achieve your goals and cope with stress. All of us benefit from support during times of struggle. You are not alone. There are many helpful resources available on campus and an important part of the college experience is learning how to ask for help. Asking for support sooner rather than later is often helpful. If you or anyone you know experiences any academic stress, difficult life events, or feelings like anxiety or depression, we strongly encourage you to seek support. Counseling and Psychological Services (CaPS) is here to help: call 412-268-2922 and visit their website at http://www.cmu.edu/counseling/. Consider reaching out to a friend, faculty or family member you trust for help getting connected to the support that can help. ",
-    "url": "syllabus/#a-note-on-self-care",
+    "url": "https://cmu-crafting-software.github.io/2020/syllabus/#a-note-on-self-care",
     "relUrl": "/syllabus/#a-note-on-self-care"
   }
 }
