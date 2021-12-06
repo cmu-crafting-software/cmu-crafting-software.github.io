@@ -2,8 +2,10 @@
 title: Tentative schedule, topic may change
 ---
 
+TBD
 
-Feb 2 (Tue)
+
+<!-- Feb 2 (Tue)
 : Intro
 
 Feb 4 (Thur)
@@ -129,4 +131,4 @@ May 7 (Fri)
 : **Recitation**{: .label .label-purple } Final Project Check-in Meetings
 
 TBD:
-: **Final**{: .label .label-green } Final Project Presentation
+: **Final**{: .label .label-green } Final Project Presentation -->

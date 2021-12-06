@@ -20,7 +20,7 @@ seo:
 
 <!-- <img src="assets/images/crafting_software_header_noBG.png" > 
 
-## Welcome to 17-450/17-950 Crafting Software-->
+## Welcome to 17-950 Crafting Software-->
 
 See previous class instance here: [2020](https://cmu-crafting-software.github.io/2020/)
 
