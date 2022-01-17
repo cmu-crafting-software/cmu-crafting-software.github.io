@@ -5,7 +5,7 @@ permalink: /assignments/hw1
 parent: Assignments
 ---
 
-# Homework 1 **Due Tuesday Feb 9th at 4pm EST**{: .label .label-red }
+# Homework 1 **Due Tuesday Jan 25th at 4pm EST**{: .label .label-red }
 In this homework, you will be practicing using version control (`git` and [GitHub](https://github.com/)). We will be using this throughout the course extensively.  Additionally, we will be requiring you to use the command line for this assignment. 
 
 
@@ -88,7 +88,7 @@ Writing a good commit message is hard! Don't feel bad if it takes a bit of think
 One pro tip with `git`.  It can often be the case that your local directory can get really messed up. Feel free to delete your local directly and start over.  This is a common technique when working with `git`.
 
 ## Deadlines and Deliverables
-__Due Date__: Tuesday Feb 9th at 4pm.  
+__Due Date__: Tuesday Jan 25th at 4pm.  
 You may use up to two (2) late days, out of six total.  To use a late day, simply message us on slack to let us know that you will be using a late day.
 
 __Deliverable__: For this assignment, you have two deliverables.  
