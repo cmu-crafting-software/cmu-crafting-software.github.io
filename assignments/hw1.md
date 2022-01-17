@@ -97,5 +97,5 @@ Your commits to the repository will be viewable by us, and we will use them for 
 
 
 ## Assignment Review
-Because this is a new class, we are asking you to fill out a short survey to help us calibrate the homeworks.  This survey is ungraded, but your input will be very valuable for us in improving the course both for this semester, and for future years. [Survey link.](https://docs.google.com/forms/d/e/1FAIpQLSe1v3TKk8_g4IB6P2DhQ3MUgPZJC9GCzqBoLZuzEVaM9aKguA/viewform)
+Because this is a new class, we are asking you to fill out a short survey to help us calibrate the homeworks.  This survey is ungraded, but your input will be very valuable for us in improving the course both for this semester, and for future years. [__Fill out a short survey to help us improve the course!__]()
 
