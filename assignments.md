@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Assignments
-permalink: assignments/
+permalink: /assignments/
 has_children: true
 nav_order: 3
 ---
