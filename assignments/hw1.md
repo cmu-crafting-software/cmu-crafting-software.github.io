@@ -39,7 +39,7 @@ You should create a new branch of the repository, and you should name the branch
 
 
 ### Make a change to the student list, commit locally, and managing any conflicts that might exist
-In the branch that you created, you should make a change to the ClassRoster.md file, adding your name and andrewID to the Class Roster.  You should then commit that change to your local branch.  Commiting should be done via the command line, and you should include the command(s) needed in your script to turn in.
+In the branch that you created, you should make a change to the `ClassRoster.md` file, adding your name and andrewID to the Class Roster.  You should then commit that change to your local branch.  Commiting should be done via the command line, and you should include the command(s) needed in your script to turn in.
 
 
 ### Push branch to github
@@ -83,14 +83,15 @@ The appropriate steps here should be done via the command line, and you should i
 ## Tips and Suggestions
 We are requiring you to learn to use the command line interface for this assignment.  While there are several `git` clients ([SourceTree](https://www.sourcetreeapp.com/), [Github Desktop](https://desktop.github.com/)) available, and if you find yourself struggling, you might want to try using a client first, then re-doing the assignment with the command line. 
 
-Writing a good commit message is hard! don't feel bad if it takes a bit of thinking, or if you are not happy with your first version.
+Writing a good commit message is hard! Don't feel bad if it takes a bit of thinking, or if you are not happy with your first version.
 
 One pro tip with `git`.  It can often be the case that your local directory can get really messed up. Feel free to delete your local directly and start over.  This is a common technique when working with `git`.
 
 ## Deadlines and Deliverables
-Due Date: Tuesday Feb 9th at 4pm.  
+__Due Date__: Tuesday Feb 9th at 4pm.  
 You may use up to two (2) late days, out of six total.  To use a late day, simply message us on slack to let us know that you will be using a late day.
-Deliverable: For this assignment, you have two deliverables.  
+
+__Deliverable__: For this assignment, you have two deliverables.  
 You will turn in a script that shows what commands you used at the command line. You should turn this in by sending it to both instructors and the TA in a group message via slack. 
 Your commits to the repository will be viewable by us, and we will use them for grading (you might want to confirm that they are visible by using the GitHub web interface).
 
