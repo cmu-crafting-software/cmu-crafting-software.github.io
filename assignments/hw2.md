@@ -29,7 +29,7 @@ You will be asked to perform the following series of tasks:
 
 ### Clone Homework Repo via GitHub Classroom.
 
-Your first step for this project is to configure your repository that you will be working in for this assignment. You should create a repository via Github classroom at this link: TODO:
+Your first step for this project is to configure your repository that you will be working in for this assignment. You should create a repository via Github classroom at this link: <https://classroom.github.com/a/N2lGzl0s>.
 
 You will be committing your solutions to this repo for all this homework.
 
