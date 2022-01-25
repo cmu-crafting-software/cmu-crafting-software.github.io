@@ -44,7 +44,7 @@ You should push a commit to your repository with a descriptive commit message on
 
 The next step is to simply print out the data using the `print` function in your application. Once you have achieved this, you should commit this change to your repository, and push it to your repo.
 
-### Calculate the sum and average of any two columns in the data set
+### Calculate the average, min, and max of the `temperature` column in the data set
 
 The data in the `.csv` is documented by the first row in the dataset. You should  calculate the average, max, and min of the `temperature` column in the file.
 
