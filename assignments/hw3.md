@@ -30,7 +30,7 @@ You will be asked to perform the following series of tasks for part (a):
 - Create a script with some starter code for reading and writing files
 - Find one issue in the uncleaned `.csv` file
 
-Here are the tasks for part (B):
+Here are the tasks for part (b):
 
 - Find the rest of the issues in the uncleaned `.csv` file
 - mitigate issues computationally
