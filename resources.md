@@ -19,3 +19,5 @@ nav_order: 2
 [Learning Git](https://learngitbranching.js.org/)
 
 [Learning Vim adventure game](https://vim-adventures.com/)
+
+[python cheat sheet](http://sixthresearcher.com/wp-content/uploads/2016/12/Python3_reference_cheat_sheet.pdf)
