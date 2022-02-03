@@ -46,9 +46,11 @@ A `.md` file is written in the Markdown syntax. Refer to this [quick reference](
 
 ### Download the input CSV file
 
-We provided a CSV file with some errors. Download the file here: TODO. Please put the file in `hw3`.
+We provided a CSV file with some errors. 
 
-Throughout this homework, you will identify the problems in this file and fix them computationally in a Python program.
+__Download the file (`input.csv`) here__: <https://gist.githubusercontent.com/wodeni/4d73683cad9826ceb250be0efa853578/raw/39b6441187ac4ebaf5fc1bdbf787585cdc58fd5e/input.csv>. 
+
+Please put the file in `hw3`. Throughout this homework, you will identify the problems in this file and fix them computationally in a Python program.
 
 ### Write some starter code for reading and writing files
 
