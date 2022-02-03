@@ -48,7 +48,7 @@ A `.md` file is written in the Markdown syntax. Refer to this [quick reference](
 
 We provided a CSV file with some errors. Download the file here: TODO. Please put the file in `hw3`.
 
-THroughout this homework, you will identify the problems in this file and fix them computationally in a Python program.
+Throughout this homework, you will identify the problems in this file and fix them computationally in a Python program.
 
 ### Write some starter code for reading and writing files
 
