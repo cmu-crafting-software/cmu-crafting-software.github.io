@@ -2,28 +2,25 @@
 title: Tentative schedule, topic may change
 ---
 
-TBD
-
-
-<!-- Feb 2 (Tue)
+Jan 18 (Tue)
 : Intro
 
-Feb 4 (Thur)
+Jan 20 (Thur)
 : VCS, Code Editing and Running
 
-Feb 5 (Fri)
-: **Recitation**{: .label .label-purple } Git/GitHub/submitting and assignment
+Jan 21 (Fri)
+: **Recitation**{: .label .label-purple } `git`/GitHub/submitting and assignment
 
-Feb 9 (Tue)
+Jan 25 (Tue)
 : File I/O **[HW1](https://cmu-crafting-software.github.io//assignments/hw1) due**{: .label .label-red }
 
-Feb 11 (Thur)
+Jan 27 (Thur)
 : Paths and directory navigation
 
-Feb 12 (Fri)
-: **Recitation**{: .label .label-purple } WebAPIs, REST
+Jan 28 (Fri)
+: **Recitation**{: .label .label-purple } Web APIs, REST
 
-Feb 16 (Tue)
+<!-- Feb 16 (Tue)
 : Intro to Testing: Edge Cases, Coverage
 
 Feb 18 (Thur)
@@ -131,4 +128,4 @@ May 7 (Fri)
 : **Recitation**{: .label .label-purple } Final Project Check-in Meetings
 
 TBD:
-: **Final**{: .label .label-green } Final Project Presentation -->
+: **Final**{: .label .label-green } Final Project Presentation --> 
