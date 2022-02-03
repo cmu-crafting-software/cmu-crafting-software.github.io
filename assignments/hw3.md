@@ -7,8 +7,8 @@ parent: Assignments
 
 # Homework 3 
 
-**Part (a) Due Thursday Feb 10th at 4pm EST**{: .label .label-red } 
-**Part (b) Due Thursday Feb 17th at 4pm EST**{: .label .label-red }
+**Part (a) Due Thursday Feb 10th at 3:05pm EST**{: .label .label-red } 
+**Part (b) Due Thursday Feb 17th at 3:05pm EST**{: .label .label-red }
 
 In this homework, you will practice writing a Python application, dealing with uncleaned data, handling potential errors, and using `assert` statements. Please read the entire assignment in full before you begin. You might find some helpful information in the [Resources section](#resources). 
 
@@ -110,8 +110,8 @@ For each of the problems you identified above, write a very short (e.g. one sent
 
 __Due Dates__: 
 
-* Part (a): Thursday Feb 10th at 4pm.  
-* Part (b): Thursday Feb 17th at 4pm.  
+* Part (a): Thursday Feb 10th at 3:05pm.  
+* Part (b): Thursday Feb 17th at 3:05pm.  
 
 You may use up to two (2) late days for each part. To use a late day, simply message us on Slack to let us know that you will be using a late day.
 
