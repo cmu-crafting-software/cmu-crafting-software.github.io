@@ -122,7 +122,7 @@ __Deliverable__: For this assignment, the files that should be included in your 
 
 When you are ready to submit part (a), you should create a new tag, your tag should be `3.0-alpha` (for HW3 [alpha release](https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha)). 
 
-When you are ready to submit part (a), create a new tag called `3.0` (for HW3 final version). 
+When you are ready to submit part (b), create a new tag called `3.0` (for HW3 final version). 
 
 Here's a quick guide to `git tag`: <https://git-scm.com/book/en/v2/Git-Basics-Tagging>.
 
