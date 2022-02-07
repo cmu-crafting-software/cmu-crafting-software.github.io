@@ -20,14 +20,25 @@ Jan 27 (Thur)
 Jan 28 (Fri)
 : **Recitation**{: .label .label-purple } Web APIs, REST
 
-<!-- Feb 16 (Tue)
-: Intro to Testing: Edge Cases, Coverage
+Feb 1 (Tue)
+: Python objects
 
-Feb 18 (Thur)
+Feb 3 (Thur)
+: Data structures
+
+Feb 4 (Fri)
+: **Recitation**{: .label .label-purple } Python collection manipulation
+
+Feb 8 (Tue)
+: Testing
+
+Feb 10 (Thur)
 : Debugging
 
-Feb 19 (Fri)
-: **Recitation**{: .label .label-purple } Using the Command Line and Shell
+Feb 11 (Fri)
+: **Recitation**{: .label .label-purple } Python classes and sets
+
+<!-- 
 
 Feb 23 (Tue)
 : **Break**{: .label .label-red } Break Day; No Classes
