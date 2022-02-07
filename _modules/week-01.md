@@ -20,14 +20,25 @@ Jan 27 (Thur)
 Jan 28 (Fri)
 : **Recitation**{: .label .label-purple } Web APIs, REST
 
-<!-- Feb 16 (Tue)
-: Intro to Testing: Edge Cases, Coverage
+Feb 1 (Tue)
+: Python objects **[HW2](https://cmu-crafting-software.github.io//assignments/hw2) due**{: .label .label-red }
 
-Feb 18 (Thur)
-: Debugging
+Feb 3 (Thur)
+: Data structures
 
-Feb 19 (Fri)
-: **Recitation**{: .label .label-purple } Using the Command Line and Shell
+Feb 4 (Fri)
+: **Recitation**{: .label .label-purple } Python collection manipulation
+
+Feb 8 (Tue)
+: Testing
+
+Feb 10 (Thur)
+: Debugging  **[HW3](https://cmu-crafting-software.github.io//assignments/hw3) part (a) due**{: .label .label-red }
+
+Feb 11 (Fri)
+: **Recitation**{: .label .label-purple } Python classes and sets
+
+<!-- 
 
 Feb 23 (Tue)
 : **Break**{: .label .label-red } Break Day; No Classes
