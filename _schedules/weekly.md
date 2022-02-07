@@ -27,6 +27,11 @@ schedule:
           end: 4:25 PM
           location: WEH 6423
   - name: Wednesday
+    events:
+        - name: Nimo's OH
+          start: 4:00 PM
+          end: 5:00 PM
+          location: TBD 
   - name: Thursday
     events:
         - name: Lecture
