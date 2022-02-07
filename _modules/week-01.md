@@ -21,7 +21,7 @@ Jan 28 (Fri)
 : **Recitation**{: .label .label-purple } Web APIs, REST
 
 Feb 1 (Tue)
-: Python objects
+: Python objects **[HW2](https://cmu-crafting-software.github.io//assignments/hw2) due**{: .label .label-red }
 
 Feb 3 (Thur)
 : Data structures
@@ -33,7 +33,7 @@ Feb 8 (Tue)
 : Testing
 
 Feb 10 (Thur)
-: Debugging
+: Debugging  **[HW3](https://cmu-crafting-software.github.io//assignments/hw3) part (a) due**{: .label .label-red }
 
 Feb 11 (Fri)
 : **Recitation**{: .label .label-purple } Python classes and sets

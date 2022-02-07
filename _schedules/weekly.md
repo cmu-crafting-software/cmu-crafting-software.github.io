@@ -31,7 +31,7 @@ schedule:
         - name: Nimo's OH
           start: 4:00 PM
           end: 5:00 PM
-          location: TCS Hall 3rd Floor Atrium 
+          location: TCS 3rd Floor Atrium 
   - name: Thursday
     events:
         - name: Lecture
