@@ -22,7 +22,7 @@ seo:
 
 ## Welcome to 17-950 Crafting Software-->
 
-See previous class instance here: [2020](https://cmu-crafting-software.github.io/2020/)
+See previous class instance here: [2021](https://cmu-crafting-software.github.io/2020/)
 
 Do you use programming to solve problems in your field of study? Do you know enough to be dangerous, but wish you could be proud of your code? This course aims to provide students with sufficient knowledge and skills to use programming as part of their work. In this class, you will learn how to identify and find problems in your code. You will learn to read, parse, organize, and transform data. We will teach you to write code collaboratively and refine your programs so others can use them.The course will be a mixture of lecture and guided exercise with a recitation focused on hands on instruction. In this course, students are expected to have been exposed to some basic programming concepts, such as variables, if-statements, loops, and arrays. However, students are not expected to have extensive programming experience. This course is not appropriate for students that have completed more than two courses involving programming. We expect students in this class to have diverse backgrounds and experience. Some students will be self-taught, while others will have taken a programming course such as 02-201, 15-110, 95-898, or the library’s Software Carpentry workshop. 
 
