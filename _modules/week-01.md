@@ -38,16 +38,17 @@ Feb 10 (Thur)
 Feb 11 (Fri)
 : **Recitation**{: .label .label-purple } Python classes and sets
 
+Feb 15 (Tue)
+: Dataframes
+
+Feb 17 (Thur)
+: Documentation and Pandas
+
+Feb 18 (Fri)
+: **Recitation**{: .label .label-purple } Performing joins and using the debugger
+
 <!-- 
 
-Feb 23 (Tue)
-: **Break**{: .label .label-red } Break Day; No Classes
-
-Feb 25 (Thur)
-: Relational Model, SQL Querying
-
-Feb 26 (Fri)
-: **Recitation**{: .label .label-purple } RDBMS priniciples, Installing PostgreSQL
 
 Mar 2 (Tue)
 : SQL Data Definition Language, SQL Insert
