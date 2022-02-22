@@ -4,7 +4,7 @@ title: HW04 Final Project Proposal
 permalink: /assignments/hw4
 parent: Assignments
 ---
-# Homework 6: Final Project Proposal
+# Homework 4: Final Project Proposal
 
 **Due Thursday Feb 24th at 3:05pm EST**{: .label .label-red } 
 

@@ -42,7 +42,7 @@ Feb 15 (Tue)
 : Dataframes
 
 Feb 17 (Thur)
-: Documentation and Pandas
+: Documentation and Pandas **[HW4](https://cmu-crafting-software.github.io//assignments/hw4) due**{: .label .label-red }
 
 Feb 18 (Fri)
 : **Recitation**{: .label .label-purple } Performing joins and using the debugger
