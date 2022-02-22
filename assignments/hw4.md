@@ -32,3 +32,10 @@ Your writeup should address the following questions:
 - What are the set of features in your minimum-viable product?
 - What other features will you include?
 - How will you implement each feature? Which technologies will you use?
+
+In your homework repository, create a folder called `hw4` and a `README` file (`hw4/README.md`). You can also submit files in other formats (e.g. audio/video, PDFs, Google Docs). Just be sure to describe the files and include the links in your `README`. Similar to past homework assignments, be sure to include the following in your `README`:
+
+* Your name and Andrew ID
+* The name of your project and team members (if applicable)
+* Project description
+* Links to files/description of other files in the repo (if applicable)
