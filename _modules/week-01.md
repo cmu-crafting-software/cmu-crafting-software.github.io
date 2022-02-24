@@ -42,10 +42,19 @@ Feb 15 (Tue)
 : Dataframes
 
 Feb 17 (Thur)
-: Documentation and Pandas **[HW4](https://cmu-crafting-software.github.io//assignments/hw4) due**{: .label .label-red }
+: Documentation and Pandas **[HW3](https://cmu-crafting-software.github.io//assignments/hw3) part (b) due**{: .label .label-red }
 
 Feb 18 (Fri)
 : **Recitation**{: .label .label-purple } Performing joins and using the debugger
+
+Feb 22 (Tue)
+: Computational notebooks I
+
+Feb 24 (Thur)
+: Computational notebooks II **[HW4](https://cmu-crafting-software.github.io//assignments/hw4) due**{: .label .label-red }
+
+Feb 25 (Fri)
+: **Recitation**{: .label .label-purple } Pandas aggregation and grouping
 
 <!-- 
 
