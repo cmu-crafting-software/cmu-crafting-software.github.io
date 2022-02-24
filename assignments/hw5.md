@@ -35,9 +35,9 @@ You will be asked to perform the following series of tasks, all in Jupyter noteb
 
 ### Import data into dataframes
 
-You should import the vaccine data from this CSV filee: 
+You should import the vaccine data from this CSV file: 
 
-TDOO: lin
+<https://gist.githubusercontent.com/wodeni/2d838d8241b229b63aa2a4f1a044e994/raw/12b1bcf27d06ed9c864f03933333f76918781c3f/state.timeseries.csv>
 
 Use the query from [Recitation-2](https://github.com/cmu-crafting-software/recitations-22/tree/main/recitation-2) and the [`requests` library](https://docs.python-requests.org/en/latest/) to request the census data and load it into a dataframe:
 
