@@ -26,7 +26,7 @@ For this assignment, you will be doing Pandas tasks, and you will share your sol
 
 You will be asked to perform the following series of tasks, all in Jupyter notebook:
 
-- Import data into dataframes from a CSV file (vaccine data) and via a REST API (census data).
+- Import data into dataframes from a CSV file (COVID vaccine and case data) and via a REST API (census data).
 - Add a column to the vaccination data that indicates what day of the week each day represents
 - Find the average number of increase in test results by day of the week (i.e., the avg number of test results increase on mondays, tuesdays, etc)
 - Join dataframes
@@ -35,7 +35,7 @@ You will be asked to perform the following series of tasks, all in Jupyter noteb
 
 ### Import data into dataframes
 
-You should import the vaccine data from this CSV file: 
+You should import the COVID data from this CSV file: 
 
 <https://gist.githubusercontent.com/wodeni/2d838d8241b229b63aa2a4f1a044e994/raw/12b1bcf27d06ed9c864f03933333f76918781c3f/state.timeseries.csv>
 
@@ -51,7 +51,7 @@ You should import each dataset into a dataframe each, and you will use these dat
 
 You should add a new column to the vaccine dataframe that represents the day of the week. You can use strings or numbers to represent the day of the week. (It's okay if you want to do both a number and a string). 
 
-### Find the average number of increase in vaccination by day of the week 
+### Find the average number of case increase by day of the week 
 
 Using pandas, you should calculate (and print) the average number of increased tests result by day of the week.  NOTE: you might want to plot this data. We will talk about visualizations in depth later on, but for now, you may plot the data if you want, but you are not required to.
 ### Join dataframes
