@@ -56,6 +56,30 @@ Feb 24 (Thur)
 Feb 25 (Fri)
 : **Recitation**{: .label .label-purple } Pandas aggregation and grouping
 
+Mar 1 (Tue)
+: Data visualization I
+
+Mar 3 (Thur)
+: Data visualization II **[HW5](https://cmu-crafting-software.github.io//assignments/hw5) due**{: .label .label-red }
+
+Mar 4 (Fri)
+: **Break**{: .label .label-red } Spring break; No Classes
+
+Mar 8 (Tue)
+: **Break**{: .label .label-red } Spring break; No Classes
+
+Mar 10 (Thur)
+: **Break**{: .label .label-red } Spring break; No Classes
+
+Mar 11 (Fri)
+: **Break**{: .label .label-red } Spring break; No Classes
+
+Mar 15 (Tue)
+: Interactive data visualization 
+
+Mar 17 (Thur)
+: Project presentations 
+
 <!-- 
 
 
