@@ -48,10 +48,10 @@ Feb 18 (Fri)
 : **Recitation**{: .label .label-purple } Performing joins and using the debugger
 
 Feb 22 (Tue)
-: Computational notebooks I
+: Computational notebooks
 
 Feb 24 (Thur)
-: Computational notebooks II **[HW4](https://cmu-crafting-software.github.io//assignments/hw4) due**{: .label .label-red }
+: How to find answers on the Internet **[HW4](https://cmu-crafting-software.github.io//assignments/hw4) due**{: .label .label-red }
 
 Feb 25 (Fri)
 : **Recitation**{: .label .label-purple } Pandas aggregation and grouping
