@@ -28,7 +28,7 @@ You will be asked to perform the following series of tasks, all in Jupyter noteb
 
 - Import data into dataframes from a CSV file (COVID vaccine and case data) and via a REST API (census data).
 - Add a column to the vaccination data that indicates what day of the week each day represents
-- Find the average number of increase in test results by day of the week (i.e., the avg number of test results increase on mondays, tuesdays, etc)
+- Find the average number of increase in cases by day of the week (i.e., the avg number of cases increase on mondays, tuesdays, etc)
 - Join dataframes
 - Add a new column to the dataframe that is the per capita hospitalized number (hospitalizedCurrently/ total number of residents).
 - Avoid hidden state errors
@@ -53,7 +53,7 @@ You should add a new column to the vaccine dataframe that represents the day of 
 
 ### Find the average number of case increase by day of the week 
 
-Using pandas, you should calculate (and print) the average number of increased tests result by day of the week.  NOTE: you might want to plot this data. We will talk about visualizations in depth later on, but for now, you may plot the data if you want, but you are not required to.
+Using pandas, you should calculate (and print) the average number of increased cases by day of the week.  NOTE: you might want to plot this data. We will talk about visualizations in depth later on, but for now, you may plot the data if you want, but you are not required to.
 ### Join dataframes
 
 Join both dataframes, the vaccine and the census data.  You should join them on states, as we have done previously. You should also create new dataframe that you can use for the following question.
