@@ -70,7 +70,7 @@ You should not have any 2 cells that write to the same object in shared state, b
 
 ## Bonus Challenge: 
 
-Calculate a statistical test to see if there is a statistical difference between weekend vaccination vs weekday vaccination.
+Calculate a statistical test to see if there is a statistical difference between weekend vs weekday cases.
 
 ## Resources
 
