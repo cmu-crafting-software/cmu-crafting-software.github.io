@@ -7,6 +7,9 @@ parent: Assignments
 
 # Homework 6
 
+**Presentation Due Thursday Mar 17th at 3:05pm EST**{: .label .label-red } 
+**Revised Proposal Due Thursday Mar 24th at 3:05pm EST**{: .label .label-red }
+
 This homework has two parts:
 - Presentation of your idea to the class
 - Submit project revision with additional details.
