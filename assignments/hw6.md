@@ -1,0 +1,36 @@
+---
+layout: page
+title: HW06 Final Project Teams and Proposal
+permalink: /assignments/hw6
+parent: Assignments
+---
+
+# Homework 6
+
+This homework has two parts:
+- Presentation of your idea to the class
+- Submit project revision with additional details.
+
+The parts are described in detail below.
+## Presentation of your idea to the class
+You will present your project to the class on **Thursday, March 17th**. This will allow you to know what your classmates are working on, and you can discuss joining forces if you want.   You will then have a week to revise your proposal, and let us know who you have decided to work with.
+
+## Revision of project proposal with team 
+Write a revised project proposal. Your revised proposal should list all of the members of your team. The proposal can be based on the proposal one of the teamates submitted, can merge ideas from two proposals, or propose something entirely new. We strongly suggest you work with 1 or 2 others, but it is also acceptable to work alone. The revised proposal should meet all of the requirements described in HW6:
+> Your proposal should include a short project title and 2-3 paragraphs describing the purpose and scope of the project. Your writeup should address the following questions:
+>    * What is the audience for your project? Who might use it if you succeed? For what purpose?
+>   * What are the set of features in your minimum-viable product?
+>   * What other features will you include?
+>   * How will you implement each feature? Which technologies will you use?
+
+Please consider carefully each technology and feature choice. Motivate why the particular technology choice is appropriate.
+
+## Submitting
+You will need to create a new repository for the final project.  One team member should do that here: https://classroom.github.com/a/66ESxvUV.
+Once you have created the repo, that team member can add the other members of the team.   You should then submit your proposal in that new team repo.
+
+
+The revised writeup is **Due Thursday Mar 24th at 3:05pm EST**{: .label .label-red } 
+
+
+
