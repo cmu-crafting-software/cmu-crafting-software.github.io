@@ -6,6 +6,9 @@ parent: Assignments
 ---
 
 # Homework 7
+
+**Due Thursday Mar 34th at 3:05pm EST**{: .label .label-red } 
+
 In this homework, you will be working with Altair in a Juypter notebook. 
 Please read the entire assignment in full before you begin. You might find some helpful information in the Resources section.
 
