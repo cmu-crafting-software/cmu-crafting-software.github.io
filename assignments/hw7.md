@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HW07 Vizualization
-permalink: /assignments/hw6
+permalink: /assignments/hw7
 parent: Assignments
 ---
 
