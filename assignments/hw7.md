@@ -22,7 +22,7 @@ Please read the entire assignment in full before you begin. You might find some 
 For this assignment, you will be doing Altair tasks, and you will share your solution in a Jupyter notebook.
 
 You will be asked to perform the following series of tasks, all in jupyter notebook:
-- Import the COVID data (either through requests or through a CSV).
+- Import the same data you used for HW5 (COVID and census.  You may copy and paste that code).
 - In a cell, write a comment that gives an example of Nominal, Ordinal, Quantitative, and Temporal data using the columns in the COVID dataset.
 - Start by creating a default graph where you visualize the relationships between two columns in the data using a default graph (using mark_point).
 - Modify the previous mark_point graph and use visualization elements and arguments to make the graphs easier for users to read and understand.
