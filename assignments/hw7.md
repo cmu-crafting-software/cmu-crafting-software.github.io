@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HW07 Vizualization
+title: HW07 Visualization
 permalink: /assignments/hw7
 parent: Assignments
 ---
@@ -30,10 +30,10 @@ You will be asked to perform the following series of tasks, all in jupyter noteb
 - Make another visualization, choosing from mark_area(), mark_bar(), mark_circle(), mark_line(), mark_rect(), mark_rule(), mark_square(), mark_text(), mark_tick(), where you transform the data (such as bins, averages, etc).  Write a comment of what you observe about the data.
 
 ## Bonus Challenge:
-Find an example visualization from the Altair Example Gallery (https://altair-viz.github.io/gallery/), and copy the code into your own notebook, and get it to work with your data source (the COVID dataset).
+Find an example visualization from the Altair Example Gallery (<https://altair-viz.github.io/gallery/>), and copy the code into your own notebook, and get it to work with your data source (the COVID dataset).
 
 ## Resources
-https://uwdata.github.io/visualization-curriculum/altair_introduction.html
+<https://uwdata.github.io/visualization-curriculum/altair_introduction.html>
 
 ## Tips and Suggestions
 When making your graphs, do not try to do everything at once.  First make sure the data is showing on the graphs, then start adding other elements/parameters.
