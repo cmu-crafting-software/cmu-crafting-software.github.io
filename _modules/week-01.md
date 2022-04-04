@@ -80,6 +80,48 @@ Mar 15 (Tue)
 Mar 17 (Thur)
 : Project presentations 
 
+Mar 18 (Fri)
+: **Recitation**{: .label .label-purple }HTML, GitHub Pages, and embedding your data visualization 
+
+Mar 22 (Tue)
+: Web Dev 1 (general concepts)
+
+Mar 24 (Thur)
+: Collaboration (PR, issues, kanban) 
+**[HW6](https://cmu-crafting-software.github.io//assignments/hw6) (Revised proposal) due**{: .label .label-red }
+**[HW7](https://cmu-crafting-software.github.io//assignments/hw7) due**{: .label .label-red }
+
+Mar 25 (Fri)
+: **Recitation**{: .label .label-purple }Issues, PRs, and code review
+
+Mar 29 (Tue)
+: Web Dev 2 CSS/Javascript
+
+Mar 31 (Thur)
+: Testing and design
+
+Apr 1 (Fri)
+: **Recitation**{: .label .label-purple }Testing and design -- continued
+
+Apr 5 (Tue)
+: Refactoring
+
+Apr 7 (Thur)
+: **Break**{: .label .label-red } Spring Carnival; No Classes
+
+Apr 8 (Fri)
+: **Break**{: .label .label-red } Spring Carnival; No Recitation
+
+Apr 12 (Tue)
+: Interactive Data Visualization 1
+
+Apr 14 (Thur)
+: Interactive Data Visualization 2
+
+Apr 15 (Fri)
+: **Recitation**{: .label .label-purple }Web frameworks & Jekyll
+
+
 <!-- 
 
 
