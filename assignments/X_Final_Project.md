@@ -14,9 +14,9 @@ This page contains the deadlines and important deliverables for the Final Projec
 - By April 12 each team should meet with one of the instructional team (Michael, Josh, or Nimo).  You should arrainge a meeting time  via DM on Slack.
 - On April 19 there will be in-class demonstrations in which each team will give a demonstration of their application to the class. You may prepare 
 slides for these check-in demonstrations if you choose, but the main goal is to demonstrate how users can use your application and show your code. 
-- On April 28 and April 29 (the last two days of class), each team will give a longer demonstration and presentation about your project. Your presentation should explain the goals
+- On April 28 and April 29 (the last day of class and the last recitation), each team will give a longer demonstration and presentation about your project. Your presentation should explain the goals
 of the project, how far you got toward achieving those goals, what challenges you faced, and what you would do next if you had more time. You should also demonstration your 
-application and show off interesting bits of your code. You can prepare slides if you like for the final demonstration, but it is not required.  We will be asking for signups before that class.
+application and show off interesting bits of your code. You can prepare slides if you like for the final demonstration, but it is not required.
 
 ## Deadlines
 These are the important dates that you should note
