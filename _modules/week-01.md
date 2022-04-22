@@ -119,8 +119,25 @@ Apr 14 (Thur)
 : Interactive Data Visualization 2
 
 Apr 15 (Fri)
-: **Recitation**{: .label .label-purple }Web frameworks & Jekyll
+: **Recitation**{: .label .label-purple } Project workshop
 
+Apr 19 (Tue)
+: Project checkpoint demonstration
+
+Apr 21 (Thur)
+: Building a library
+
+Apr 22 (Fri)
+: **Recitation**{: .label .label-purple } Project workshop
+
+Apr 26 (Tue)
+: TBD
+
+Apr 28 (Thur)
+: Final project presentations
+
+Apr 29 (Fri)
+: Final project presentations
 
 <!-- 
 
