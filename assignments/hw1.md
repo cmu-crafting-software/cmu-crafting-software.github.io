@@ -5,7 +5,7 @@ permalink: /assignments/hw1
 parent: Assignments
 ---
 
-# Homework 1 **Due Tuesday Jan 25th at 4pm EST**{: .label .label-red }
+# Homework 1 **Due Friday Jan 26th at 4pm EST**{: .label .label-red }
 In this homework, you will be practicing using version control (`git` and [GitHub](https://github.com/)). We will be using this throughout the course extensively.  Additionally, we will be requiring you to use the command line for this assignment. 
 
 
@@ -28,7 +28,7 @@ You will be asked to perform the following series of tasks:
 
 
 ### Create a Github account
-You should create a free [GitHub](https://www.github.com) account if you do not already have one.  If you are creating a new github account, you might want to consider using your andrewID, as that will make things easier for us.  But you may use any account name you want.
+You should create a free [GitHub](https://www.github.com) account if you do not already have one.  If you are creating a new GitHub account, you might want to consider using your andrewID, as that will make things easier for us.  But you may use any account name you want.
 If you have an existing GitHub account, you may use that.
 
 ### Clone HW1 repo
@@ -88,7 +88,7 @@ Writing a good commit message is hard! Don't feel bad if it takes a bit of think
 One pro tip with `git`.  It can often be the case that your local directory can get really messed up. Feel free to delete your local directly and start over.  This is a common technique when working with `git`.
 
 ## Deadlines and Deliverables
-__Due Date__: Tuesday Jan 25th at 4pm.  
+__Due Date__: Friday Jan 26th at 4pm.  
 You may use up to two (2) late days, out of six total.  To use a late day, simply message us on slack to let us know that you will be using a late day.
 
 __Deliverable__: For this assignment, you have two deliverables.  

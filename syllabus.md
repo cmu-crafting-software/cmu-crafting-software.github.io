@@ -32,8 +32,8 @@ For the homeworks, you will have a total of six (6) late days.  You may use up t
 
 
 ## Logistics and People
-- Main class: Tuesday, Thursday 3:05PM-4:25PM (WEH 6423)
-- Recitation: Friday 2:30PM-3:20PM (WEH 5310)
+- Main class: Monday, Wednesday 3:30PM-4:50PM (WEH 4707)
+- Recitation: Friday 4:00PM-4:50PM (WEH 4707)
 
 ## Instructors: 	
 - Michael Hilton (mhilton@cmu.edu) 

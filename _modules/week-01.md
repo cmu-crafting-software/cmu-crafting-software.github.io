@@ -2,9 +2,16 @@
 title: Tentative schedule, topic may change
 ---
 
-Jan 18 (Tue)
-: Intro
+Jan&nbsp;17&nbsp;(Wed)
+: Intro, VCS, Code Editing, and Running
 
+Jan&nbsp;19&nbsp;(Fri)
+: **Recitation**{: .label .label-purple } `git`, GitHub, submitting, and assignment
+
+TBD
+: Remainder of the calendar will be posted soon
+
+<!-- 
 Jan 20 (Thur)
 : VCS, Code Editing and Running
 
@@ -138,6 +145,7 @@ Apr 28 (Thur)
 
 Apr 29 (Fri)
 : Final project presentations
+-->
 
 <!-- 
 

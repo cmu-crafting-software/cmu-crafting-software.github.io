@@ -8,7 +8,7 @@ nav_order: 2
 
 # Resources
 
-## git/GitHub
+## git and GitHub
 
 [github cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
