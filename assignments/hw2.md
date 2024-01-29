@@ -5,7 +5,7 @@ permalink: /assignments/hw2
 parent: Assignments
 ---
 
-# Homework 2 **Due Tuesday Feb 1st at 4pm EST**{: .label .label-red }
+# Homework 2 **Due Tuesday Feb 9th at 4pm EST**{: .label .label-red }
 In this homework you will practice writing a Python application, as well as reading data from various sources. Please read the entire assignment in full before you begin. You might find some helpful information in the Resources section. 
 
 ## Learning goals
@@ -28,7 +28,7 @@ You will be asked to perform the following series of tasks:
 
 ### Clone Homework Repo via GitHub Classroom.
 
-Your first step for this project is to configure your repository that you will be working in for this assignment. You should create a repository via Github classroom at this link: <https://classroom.github.com/a/N2lGzl0s>. After accepting the homework, GitHub classroom should create a repo named `crafting-software-hw-<your-github-id>`. We will use this repo for future assignments, too.
+Your first step for this project is to configure your repository that you will be working in for this assignment. You should create a repository via Github classroom at this link: <https://classroom.github.com/a/N2lGzl0s>. After accepting the homework, GitHub classroom will create a repo named `crafting-software-hw-<your-github-id>`. We will use this repo for future assignments, too.
 
 You will be committing your solutions to the `hw2` folder in this repo for all this homework.
 
@@ -95,7 +95,7 @@ Using requests:
   * There are many tools online (e.g. Google Maps) that converts from city names to coordinates.
 
 ## Deadlines and Deliverables
-__Due Date__: Tuesday Feb 1st at 4pm.  
+__Due Date__: Tuesday Feb 9th at 4pm.  
 
 You may use up to two (2) late days, out of six total.  To use a late day, simply message us on slack to let us know that you will be using a late day.
 
@@ -103,7 +103,7 @@ __Deliverable__: For this assignment, you have one deliverable.
 
 You should commit the code you have written to your repository as you go along. Your `hw2/README.md` file should also contain description of what's in the repo and the results of data analysis in this homework.
 
-When you are ready to submit, you should create a new tag, your tag should be `2.0` (for HW2). (<https://git-scm.com/book/en/v2/Git-Basics-Tagging>)
+When you are ready to submit, you should create a new tag, your tag should be `2.0` (for HW2). (<https://git-scm.com/book/en/v2/Git-Basics-Tagging>) then send a group message to the instructors and TA via Slack.
 
 ## Assignment Review
 
