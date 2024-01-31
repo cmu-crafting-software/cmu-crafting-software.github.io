@@ -53,7 +53,7 @@ function initNav() {
 
 function initSearch() {
   var request = new XMLHttpRequest();
-  request.open('GET', 'https://cmu-crafting-software.github.io//assets/js/search-data.json', true);
+  request.open('GET', 'https://cmu-crafting-software.github.io/2022assets/js/search-data.json', true);
 
   request.onload = function(){
     if (request.status >= 200 && request.status < 400) {
@@ -430,7 +430,7 @@ jtd.getTheme = function() {
 
 jtd.setTheme = function(theme) {
   var cssFile = document.querySelector('[rel="stylesheet"]');
-  cssFile.setAttribute('href', 'https://cmu-crafting-software.github.io//assets/css/just-the-docs-' + theme + '.css');
+  cssFile.setAttribute('href', 'https://cmu-crafting-software.github.io/2022assets/css/just-the-docs-' + theme + '.css');
 }
 
 // Document ready
