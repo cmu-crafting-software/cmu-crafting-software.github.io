@@ -6,10 +6,148 @@ Jan&nbsp;17&nbsp;(Wed)
 : Intro, VCS, Code Editing, and Running
 
 Jan&nbsp;19&nbsp;(Fri)
-: **Recitation**{: .label .label-purple } `git`, GitHub, submitting, and assignment
+: **Recitation**{: .label .label-purple } `git`, GitHub, submitting, and HW1
 
-TBD
-: Remainder of the calendar will be posted soon
+
+Jan&nbsp;22&nbsp;(Mon)
+: Command line	
+
+Jan&nbsp;24&nbsp;(Wed)	
+: Python, Reading data			
+
+Jan&nbsp;26&nbsp;(Fri)	
+: **Recitation**{: .label .label-purple }Web APIs, REST	
+
+
+Jan&nbsp;29&nbsp;(Mon)
+: Paths			
+
+Jan&nbsp;31&nbsp;(Wed)	
+: Data structures			
+
+Feb&nbsp;2&nbsp;(Fri)	
+: **Recitation**{: .label .label-purple }Python collection manipulation, codepaces	**[HW1](../assignments/hw1) due**{: .label .label-red }
+
+
+Feb&nbsp;5&nbsp;(Mon)	
+: Testing			
+
+Feb&nbsp;7&nbsp;(Wed)	
+: Debugging			
+
+Feb&nbsp;9&nbsp;(Fri)	
+: **Recitation**{: .label .label-purple }Classes and sets **[HW2](../assignments/hw2) due**{: .label .label-red }
+
+
+Feb&nbsp;12&nbsp;(Mon)	
+: Dataframes			
+
+Feb&nbsp;14&nbsp;(Wed)	
+: Documentation + more Pandas			
+
+Feb&nbsp;16&nbsp;(Fri)	
+: **Recitation**{: .label .label-purple }Joins and using the debugger **HW3 due**{: .label .label-red }
+
+
+Feb&nbsp;19&nbsp;(Mon)	
+: Jupyter I			
+
+Feb&nbsp;21&nbsp;(Wed)	
+: Jupyter II			
+
+Feb&nbsp;23&nbsp;(Fri)	
+: **Recitation**{: .label .label-purple } Pandas aggregation and grouping **Written project proposal due**{: .label .label-red } **HW4 due**{: .label .label-red }
+
+
+Feb&nbsp;26&nbsp;(Mon)	
+: Unit Testing - more assertion types, checking for exceptions, mocking?			
+
+Feb&nbsp;28&nbsp;(Wed)	
+: Property-based testing			
+
+Mar&nbsp;1&nbsp;(Fri)	
+: **Recitation**{: .label .label-purple } Testing and Design			
+
+
+Mar&nbsp;4&nbsp;(Mon)	
+: **Spring Break**{: .label .label-blue } No class	
+
+Mar&nbsp;6&nbsp;(Wed)	
+: **Spring Break**{: .label .label-blue } No class
+
+Mar&nbsp;8&nbsp;(Fri)	
+: **Spring Break**{: .label .label-blue } No recitaion
+
+
+Mar&nbsp;11&nbsp;(Mon)	
+: Viz I	**HW5 due**{: .label .label-red }
+
+Mar&nbsp;13&nbsp;(Wed)	
+: Project Proposal Presentations **Revised proposal due**{: .label .label-red }
+
+Mar&nbsp;15&nbsp;(Fri)	
+: **Recitation**{: .label .label-purple } Viz II			
+
+
+Mar&nbsp;18&nbsp;(Mon)	
+: Viz III			
+
+Mar&nbsp;20&nbsp;(Wed)	
+: Web Dev 1 HTML/CSS	
+
+Mar&nbsp;22&nbsp;(Fri)	
+: **Recitation**{: .label .label-purple } Basic HTML/CSS and web vega-lite **HW6 due**{: .label .label-red }
+
+
+Mar&nbsp;25&nbsp;(Mon)	
+: Collaboration (PR, issues, kanban)
+
+Mar&nbsp;27&nbsp;(Wed)	
+: Web Dev 2 Javascript/Jekyll			
+
+Mar&nbsp;29&nbsp;(Fri)	
+: **Recitation**{: .label .label-purple } code review exercise	
+
+
+Apr&nbsp;1&nbsp;(Mon)	
+: Interactive Data Visualization
+
+Apr&nbsp;3&nbsp;(Wed)	
+: Interactive Data Visualization part 2			
+
+Apr&nbsp;5&nbsp;(Fri)	
+: **Recitation**{: .label .label-purple } Project work in recitation			
+
+
+Apr&nbsp;8&nbsp;(Mon)	
+: Refactoring			
+
+Apr&nbsp;10&nbsp;(Wed)	
+: TBD			
+
+Apr&nbsp;12&nbsp;(Fri)	
+: **Spring Carnival**{: .label .label-blue } No recitation
+
+
+Apr&nbsp;15&nbsp;(Mon)	
+: Project checkpoint demonstration
+
+Apr&nbsp;17&nbsp;(Wed)	
+: Building a library			
+
+Apr&nbsp;19&nbsp;(Fri)	
+: **Recitation**{: .label .label-purple } Project work in recitation			
+
+
+Apr&nbsp;22&nbsp;(Mon)	
+: TBD			
+
+Apr&nbsp;24&nbsp;(Wed)	
+: Final project presentations
+
+Apr&nbsp;26&nbsp;(Fri)	
+: Final project presentations
+
 
 <!-- 
 Jan 20 (Thur)
