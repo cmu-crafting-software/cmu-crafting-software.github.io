@@ -7,33 +7,27 @@ parent: Assignments
 
 # Homework 3 
 
-**Part (a) Due Thursday Feb 10th at 3:05pm EST**{: .label .label-red } 
-**Part (b) Due Thursday Feb 17th at 3:05pm EST**{: .label .label-red }
+**Due Friday Feb 17th at 4:00pm EST**{: .label .label-red }
 
 In this homework, you will practice writing a Python application, dealing with uncleaned data, handling potential errors, and using `assert` statements. Please read the entire assignment in full before you begin. You might find some helpful information in the [Resources section](#resources). 
 
-__NOTE: this homework contains two parts (a and b) with separate due dates.__ The main purpose is to let instructors give you feedback to help you successfully complete the homework.
-
 ## Learning goals
 
-- Identify problems in data programmatically
+- Identify problems in data programmatically (instead of doing it manually)
 - Write code to handle errors
 - Write `assert`s to catch future errors
 - Applying previous skills: `git`/GitHub and reading files
 
 ## Tasks
 
-You will be asked to perform the following series of tasks for part (a):
+Perform the following tasks:
 
 - Create a `hw3` folder in your homework monorepo
-- Download the input CSV file
-- Create a script with some starter code for reading and writing files
+- Download the input CSV file (link provided below)
+- Create a Python script with some starter code for reading and writing files
 - Find one issue in the uncleaned `.csv` file
-
-Here are the tasks for part (b):
-
 - Find the rest of the issues in the uncleaned `.csv` file
-- mitigate issues computationally
+- Mitigate issues computationally
 
 ### Create a `hw3` folder in your homework monorepo 
 
@@ -43,6 +37,8 @@ In your `crafting-software-hw-<username>` directory (the same repo you used for 
 * Your name and Andrew ID
 
 A `.md` file is written in the Markdown syntax. Refer to this [quick reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to learn more about how to format your `README` file and any conversations on GitHub.
+
+> **Note**: You can preview a Markdown file in VS Code by control/right-clicking its tab and clicking `Preview.`
 
 ### Download the input CSV file
 
@@ -59,7 +55,7 @@ Create a Python file called `cleanCSV.py` in the `hw3` directory. For this step,
 
 * Read the input csv file (`input.csv`) 
 * Write an output csv file (`output.csv`)
-* When you run `cleanCSV.py`, the output file should be exactly the same as the input file. 
+* When you run `cleanCSV.py` the first time, the output file should be exactly the same as the input file. 
 
 ### Identify problems in the uncleaned CSV file
 
@@ -77,12 +73,11 @@ To assist you, here is a full list of problems in `input.csv`, with a short desc
 * CharString in an Integer
 * Missing newline
 
-You should paste this list into your `README.md` and add your findings as you work through this homework. Once you find an instance of a problem type, you should write the line numbers where the instance occured under the appropriate category in `README.md`.
+You should paste this list into your `README.md` and add your findings as you work through this homework. Once you find an instance of a problem type, you should write the input file line numbers where the instance occured under the appropriate category in `README.md`.
 
-__For part (a), find one of those problems. For part (b), you will find all problems in `input.csv` and fix them computationally.__
 ### Mitigate issues computationally
 
-Modify `cleanCSV.py` so it outputs a cleaned csv. You should not repair the mangled `.csv` by hand. Your program should output as much of the original data as possible, but repair the problems you identified in one of the ways we discussed in class: 
+Modify `cleanCSV.py` so it outputs a cleaned csv. You should not repair `input.csv` by hand. Your program should output as much of the original data as possible, but repair the problems you identified in one of the ways we discussed in class: 
 
 1. Replace garbled data with default values 
 2. Use an average of other values in the column 
@@ -91,6 +86,7 @@ Modify `cleanCSV.py` so it outputs a cleaned csv. You should not repair the mang
 5. Perform a bespoke/one-off correction. *If the input data is irredeemable it is also okay to remove the line.* 
 
 For each of the problems you identified above, write a very short (e.g. one sentence) justification of the fix to your program. These justifications should explain why the fix you wrote was appropriate for the problem. Write these justifications immediately after each problem in `README.md`. 
+
 ## Resources
 * <https://www.w3schools.com/python/ref_keyword_assert.asp>
 * <https://www.w3schools.com/python/ref_func_isinstance.asp>
@@ -104,15 +100,14 @@ For each of the problems you identified above, write a very short (e.g. one sent
 * Use `print` statements
 * The `len()` function can check the length of a string (e.g. `len(“cat”) == 3`)
 * The `isinstance()` function can check the type of an input (e.g. `assert isinstance(5, int)`)
-* You can change the type of variables (e.g. `int(“4”)` become `4`)
-* As much as possible, try to avoid hard-code to catch errors. Your code should be able to catch the errors on other sets of data. For example, do not just say: `if row # = 42`, don’t include in new CSV. We want you to use logic, so your code can be applied to any different CSV files and catch the incorrect data.
+* You can change the type of variables (e.g. `int(“4”)` becomes `4`)
+* As much as possible, try to avoid hard-coding to catch only the errors in the file we give you. Your code should be able to catch similar errors on other sets of data. For example, do not just say: `if row # = 42`, don’t include in new CSV. We want you to use logic, so your code can be applied to any different CSV files and catch the incorrect data.
 
 ## Deadlines and Deliverables
 
-__Due Dates__: 
+__Due Date__: 
 
-* Part (a): Thursday Feb 10th at 3:05pm.  
-* Part (b): Thursday Feb 17th at 3:05pm.  
+* Friday Feb 17th at 4:00pm.  
 
 You may use up to two (2) late days for each part. To use a late day, simply message us on Slack to let us know that you will be using a late day.
 
@@ -123,9 +118,7 @@ __Deliverable__: For this assignment, the files that should be included in your 
 3. `input.csv`
 4. `output.csv`
 
-When you are ready to submit part (a), you should create a new tag, your tag should be `3.0-alpha` (for HW3 [alpha release](https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha)). 
-
-When you are ready to submit part (b), create a new tag called `3.0` (for HW3 final version). 
+When you are ready to submit, create a new tag called `3.0` (for HW3 final version). 
 
 Here's a quick guide to `git tag`: <https://git-scm.com/book/en/v2/Git-Basics-Tagging>.
 
