@@ -56,17 +56,17 @@ Feb&nbsp;21&nbsp;(Wed)
 : Jupyter II			
 
 Feb&nbsp;23&nbsp;(Fri)	
-: **Recitation**{: .label .label-purple } Pandas aggregation and grouping **Written project proposal due**{: .label .label-red } **HW4 due**{: .label .label-red }
+: **Recitation**{: .label .label-purple } Pandas aggregation and grouping **Written project proposal due**{: .label .label-red } 
 
 
 Feb&nbsp;26&nbsp;(Mon)	
 : Unit Testing - more assertion types, checking for exceptions, mocking?			
 
 Feb&nbsp;28&nbsp;(Wed)	
-: Property-based testing			
+: Property-based testing **HW4 due**{: .label .label-red }			
 
 Mar&nbsp;1&nbsp;(Fri)	
-: **Recitation**{: .label .label-purple } Testing and Design			
+: **No Recitation**{: .label .label-purple } <!--Testing and Design	-->		
 
 
 Mar&nbsp;4&nbsp;(Mon)	

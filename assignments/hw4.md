@@ -1,13 +1,13 @@
 ---
 layout: page
-title: HW05 Pandas
-permalink: /assignments/hw5
+title: HW04 Pandas
+permalink: /assignments/hw4
 parent: Assignments
 ---
 
-# Homework 5
+# Homework 4
 
-**Due Thursday Mar 3rd at 3:05pm EST**{: .label .label-red } 
+**Due Wednesday Feb 28th at 4:00pm EST**{: .label .label-red } 
 
 In this homework, you will be working with Pandas in a Juypter notebook. 
 
@@ -39,7 +39,7 @@ You should import the COVID data from this CSV file:
 
 <https://gist.githubusercontent.com/wodeni/2d838d8241b229b63aa2a4f1a044e994/raw/12b1bcf27d06ed9c864f03933333f76918781c3f/state.timeseries.csv>
 
-Use the query from [Recitation-2](https://github.com/cmu-crafting-software/recitations-22/tree/main/recitation-2) and the [`requests` library](https://docs.python-requests.org/en/latest/) to request the census data and load it into a dataframe:
+Use the query from [Recitation-2](https://github.com/cmu-crafting-software/recitations-24/tree/main/recitation-2) and the [`requests` library](https://docs.python-requests.org/en/latest/) to request the census data and load it into a dataframe:
 
 ```
 https://api.census.gov/data/2019/pep/charagegroups?get=NAME,POP&for=state:*
@@ -86,6 +86,6 @@ To calculate information by day of the week, considering which information to ma
 
 ## Deadlines and Deliverables
 
-__Due Date__: Thursday Mar 3rd at 3:05pm EST
+__Due Date__: Wednesday Feb 28th at 4:00pm EST
 
-The deliverable should be committed and pushed to the main branch of your repository on GitHub. Your notebook file (i.e. `.ipynb`) file should be committed and pushed to your homework repository in a `hw5` subdirectory.
+The deliverable should be committed and pushed to the main branch of your repository on GitHub. Your notebook file (i.e. `.ipynb`) file should be committed and pushed to your homework repository in a `hw4` subdirectory.
