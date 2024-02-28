@@ -63,7 +63,7 @@ Feb&nbsp;26&nbsp;(Mon)
 : Unit Testing - more assertion types, checking for exceptions, mocking?			
 
 Feb&nbsp;28&nbsp;(Wed)	
-: Property-based testing **HW4 due**{: .label .label-red }			
+: Collaboration (PR, issues, kanban) **HW4 due**{: .label .label-red }			
 
 Mar&nbsp;1&nbsp;(Fri)	
 : **No Recitation**{: .label .label-purple } <!--Testing and Design	-->		
@@ -80,27 +80,29 @@ Mar&nbsp;8&nbsp;(Fri)
 
 
 Mar&nbsp;11&nbsp;(Mon)	
-: Viz I	**HW5 due**{: .label .label-red }
+: Property-based testing 
+
 
 Mar&nbsp;13&nbsp;(Wed)	
-: Project Proposal Presentations **Revised proposal due**{: .label .label-red }
+: Property-based testing (ctd.) **Revised proposal due**{: .label .label-red }
 
 Mar&nbsp;15&nbsp;(Fri)	
-: **Recitation**{: .label .label-purple } Viz II			
+: **Recitation**{: .label .label-purple } Viz I	
+**HW5 due**{: .label .label-red }		
 
 
 Mar&nbsp;18&nbsp;(Mon)	
-: Viz III			
+: Viz II			
 
 Mar&nbsp;20&nbsp;(Wed)	
-: Web Dev 1 HTML/CSS	
+: Viz III
 
 Mar&nbsp;22&nbsp;(Fri)	
 : **Recitation**{: .label .label-purple } Basic HTML/CSS and web vega-lite **HW6 due**{: .label .label-red }
 
 
 Mar&nbsp;25&nbsp;(Mon)	
-: Collaboration (PR, issues, kanban)
+: Web Dev 1 HTML/CSS	
 
 Mar&nbsp;27&nbsp;(Wed)	
 : Web Dev 2 Javascript/Jekyll			
