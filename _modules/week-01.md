@@ -56,7 +56,8 @@ Feb&nbsp;21&nbsp;(Wed)
 : Jupyter II			
 
 Feb&nbsp;23&nbsp;(Fri)	
-: **Recitation**{: .label .label-purple } Pandas aggregation and grouping **Written project proposal due**{: .label .label-red } 
+: **Recitation**{: .label .label-purple } Pandas aggregation and grouping 
+
 
 
 Feb&nbsp;26&nbsp;(Mon)	
@@ -66,7 +67,8 @@ Feb&nbsp;28&nbsp;(Wed)
 : Collaboration (PR, issues, kanban) **HW4 due**{: .label .label-red }			
 
 Mar&nbsp;1&nbsp;(Fri)	
-: **No Recitation**{: .label .label-purple } <!--Testing and Design	-->		
+: **No Recitation**{: .label .label-purple } 
+**Written project proposal due**{: .label .label-red } 
 
 
 Mar&nbsp;4&nbsp;(Mon)	
