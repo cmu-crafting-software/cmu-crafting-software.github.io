@@ -75,7 +75,7 @@ If all tests pass, Hypothesis will say the tests passed (meaning it didn't find 
 When you find the bug, update `README.md` with:
 - The counter-example Hypothesis found
 - Describe your experience trying to find the bug. Do you think this might be harder or easier than manually thinking of test cases?
-- Is there anything that you like or dislike about Hypothesis? How could it be better or easier to use?
+- Is there anything that you liked or disliked about using Hypothesis? How do you think it could be better or easier to use?
 
 > **Note**: If your property didn't find a bug, you should consider other properties to test.
 
