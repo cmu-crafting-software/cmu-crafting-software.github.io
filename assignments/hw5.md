@@ -72,13 +72,16 @@ To execute Hypothesis, run `pytest` in terminal with `hw5` as your current worki
 
 If all tests pass, Hypothesis will say the tests passed (meaning it didn't find the bug). If a test fails, Hypothesis will show you a single example as well as the assertion that failed. The documentation (see Resources) also explains this.
 
-When you find the bug, update `README.md` with the counter-example Hypothesis found and describe your experience and how easy or hard it was to find the bug versus how hard you think it might have been to find the bug by manually thinking of test cases.
+When you find the bug, update `README.md` with:
+- The counter-example Hypothesis found
+- Describe your experience trying to find the bug. Do you think this might be harder or easier than manually thinking of test cases?
+- Is there anything that you like or dislike about Hypothesis? How could it be better or easier to use?
 
 > **Note**: If your property didn't find a bug, you should consider other properties to test.
 
 ## Bonus Challenge: Fix the Bug! 
 
-Correct the bug in `wordle_parts_buggy.py` and include a corrected version in your repo named `wordle_parts_fixed.py`
+Correct the bug: include a corrected version of Wordle in your repo named `wordle_parts_fixed.py`
 
 ## Resources
 
