@@ -1,13 +1,13 @@
 ---
 layout: page
-title: HW07 Visualization
-permalink: /assignments/hw7
+title: HW06 Visualization
+permalink: /assignments/hw6
 parent: Assignments
 ---
 
-# Homework 7
+# Homework 6
 
-**Due Thursday Mar 24th at 3:05pm EST**{: .label .label-red } 
+**Due Monday Mar 25th at 3:50pm EST**{: .label .label-red } 
 
 In this homework, you will be working with Altair in a Juypter notebook. 
 Please read the entire assignment in full before you begin. You might find some helpful information in the Resources section.
@@ -22,7 +22,7 @@ Please read the entire assignment in full before you begin. You might find some 
 For this assignment, you will be doing Altair tasks, and you will share your solution in a Jupyter notebook.
 
 You will be asked to perform the following series of tasks, all in jupyter notebook:
-- Import the same data you used for HW5 (COVID and census.  You may copy and paste that code).
+- Import the same data you used for HW4 (COVID and census.  You may copy and paste that code).
 - In a cell, write a comment that gives an example of Nominal, Ordinal, Quantitative, and Temporal data using the columns in the COVID dataset.
 - Start by creating a default graph where you visualize the relationships between two columns in the data using a default graph (using mark_point).
 - Modify the previous mark_point graph and use visualization elements and arguments to make the graphs easier for users to read and understand.
@@ -39,4 +39,4 @@ Find an example visualization from the Altair Example Gallery (<https://altair-v
 When making your graphs, do not try to do everything at once.  First make sure the data is showing on the graphs, then start adding other elements/parameters.
 
 ## Deadlines and Deliverables
-The deliverable should be committed and pushed to the main branch of your repository on GitHub. It is due Thursday, March 24th.  Your notebook file (i.e. .ipynb) file should be committed and pushed to your homework repository in a `hw7` subdirectory.
+The deliverable should be committed and pushed to the main branch of your repository on GitHub. It is due Monday, March 25th.  Your notebook file (i.e. .ipynb) file should be committed and pushed to your homework repository in a `hw6` subdirectory.
