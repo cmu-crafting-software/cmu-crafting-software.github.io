@@ -983,7 +983,7 @@ body {
   margin-right: 0.5rem;
   margin-left: 0.5rem;
   color: #959396;
-  content: "/";
+  content: "/2024/";
 }
 .breadcrumb-nav-list-item:last-child::after {
   content: "";
