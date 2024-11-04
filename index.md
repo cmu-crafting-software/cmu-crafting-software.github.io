@@ -37,10 +37,11 @@ Do you use programming to solve problems in your field of study? Do you know eno
  - Create and deploy a web application that reads, parses, and analyzes data.
 
 ### Structure of the course
-Meets twice weekly
-Most classes will include both a lecture and a collaborative in-class exercise
-There will be weekly homework assignments for students to practice that week’s material
-There will be a summative final project, in which students will integrate the tools and techniques they have learned into a cohesive whole. 
+
+ - Meets twice weekly
+ - Most classes will include both a lecture and a collaborative in-class exercise
+ - There will be weekly homework assignments for students to practice that week’s material
+ - There will be a summative final project, in which students will integrate the tools and techniques they have learned into a cohesive whole. 
 
 Evaluation in the course will be approximately as follows:
  - Homeworks: 50%
