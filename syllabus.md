@@ -30,16 +30,6 @@ There will be a summative final project, in which students will integrate the to
 ## Late days
 For the homeworks, you will have a total of six (6) late days.  You may use up to two (2) late days per assignment. To use a late day, you need to to message the course staff in a private message on slack, informing us that you will be using a late day.
 
-
-## Logistics and People
-- Main class: Monday, Wednesday 3:30PM-4:50PM (WEH 4707)
-- Recitation: Friday 4:00PM-4:50PM (WEH 4707)
-
-## Instructors: 	
-- Michael Hilton (mhilton@cmu.edu) 
-- Josh Sunshine (sunshine@cs.cmu.edu)
-
-
 ## Research in the course. 
 For this class, we are conducting research on teaching and learning. This research will involve some student work. You will not be asked to do anything above and beyond the normal learning activities and assignments that are part of this course. You are free not to participate in this research, and your participation will have no influence on your grade for this course or your academic career at CMU. If you do not wish to participate, please send an email to Chad Hershock (hershock@andrew.cmu.edu). Participants will not receive any compensation. The data collected as part of this research will include student grades. All analyses of data from participants’ coursework will be conducted after the course is over and final grades are submitted. The Eberly Center may provide support on this research project regarding data analysis and interpretation. The Eberly Center for Teaching Excellence & Educational Innovation is located on the CMU-Pittsburgh Campus and its mission is to support the professional development of all CMU instructors regarding teaching and learning. To minimize the risk of breach of confidentiality, the Eberly Center will never have access to data from this course containing your personal identifiers. All data will be analyzed in de-identified form and presented in the aggregate, without any personal identifiers. If you have questions pertaining to your rights as a research participant, or to report concerns to this study, please contact Chad Hershock (hershock@andrew.cmu.edu).
 
