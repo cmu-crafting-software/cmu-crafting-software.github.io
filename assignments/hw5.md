@@ -3,6 +3,7 @@ layout: page
 title: HW05 Hypothesis
 permalink: /assignments/hw5
 parent: Assignments
+published: false
 ---
 
 # Homework 5

@@ -3,6 +3,7 @@ layout: page
 title: HW02  Reading Data
 permalink: /assignments/hw2
 parent: Assignments
+published: false
 ---
 
 # Homework 2 **Due Tuesday Feb 9th at 4pm EST**{: .label .label-red }
@@ -108,7 +109,3 @@ When you are ready to submit, you should create a new tag, your tag should be `2
 ## Assignment Review
 
 Because this is a new class, we are asking you to fill out a short survey to help us calibrate the homeworks.  This survey is ungraded, but your input will be very valuable for us in improving the course both for this semester, and for future years. [__Fill out a short survey to help us improve the course!__](https://forms.gle/z3i3o2V8GWsvDYzJ9)
-
-
-
-

@@ -3,6 +3,7 @@ layout: page
 title: HW06 Visualization
 permalink: /assignments/hw6
 parent: Assignments
+published: false
 ---
 
 # Homework 6

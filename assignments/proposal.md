@@ -3,6 +3,7 @@ layout: page
 title: Final Project Proposal
 permalink: /assignments/proposal
 parent: Assignments
+published: false
 ---
 # Final Project Proposal
 

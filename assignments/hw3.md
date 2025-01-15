@@ -3,6 +3,7 @@ layout: page
 title: HW03 Defensive Programming
 permalink: /assignments/hw3
 parent: Assignments
+published: false
 ---
 
 # Homework 3 
