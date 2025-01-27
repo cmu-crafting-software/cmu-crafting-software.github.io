@@ -20,4 +20,4 @@ nav_order: 2
 
 [Learning Vim adventure game](https://vim-adventures.com/)
 
-[python cheat sheet](http://sixthresearcher.com/wp-content/uploads/2016/12/Python3_reference_cheat_sheet.pdf)
+[Python cheat sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
