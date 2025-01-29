@@ -5,7 +5,7 @@ permalink: /assignments/hw2
 parent: Assignments
 ---
 
-# Homework 2 **Due Friday Feb 7th at 4pm EST**{: .label .label-red }
+# Homework 2 **Due Friday Feb 7th at 2pm EST**{: .label .label-red }
 In this homework you will practice writing a Python application, as well as reading data from various sources. Please read the entire assignment in full before you begin. You might find some helpful information in the Resources section. 
 
 ## Learning goals
@@ -83,7 +83,7 @@ Using `requests`:
 
 ## Deadlines and Deliverables
 
-**Due Date**: Friday Feb 7th at 4pm.
+**Due Date**: Friday Feb 7th at 2pm.
 
 You may use up to two (2) late days, out of six total. To use a late day, simply message us on Slack to let us know that you will be using a late day.
 

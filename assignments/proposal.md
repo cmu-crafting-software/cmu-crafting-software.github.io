@@ -7,7 +7,7 @@ parent: Assignments
 
 # Final Project Proposal
 
-**Due Friday Feb 28th at 4pm EST**{: .label .label-red } 
+**Due Friday Feb 28th at 2pm EST**{: .label .label-red } 
 
 The goal for the final project is for you to make use of the skills you’ve learned in the course in an independent, open-ended context. The project should be a stand-alone application that interacts with data and shareable with a wider community. An ideal final project will be related to your research or main course of study. Ideally you will work with one partner, but it is also acceptable to work alone. Everyone should write a project proposal, but there will be a matchmaking phase later where you can join another project or merge your project with another student’s project.
 
@@ -23,7 +23,7 @@ We are flexible about the project you propose, as long as it makes use of the sk
 
 ### Deadlines and deliverables
 
-**Due Date**: Friday Feb 28th at 4pm EST
+**Due Date**: Friday Feb 28th at 2pm EST
 
 **Deliverable**: Your proposal should include a short project title and 2-3 paragraphs describing the purpose and scope of the project. 
 
