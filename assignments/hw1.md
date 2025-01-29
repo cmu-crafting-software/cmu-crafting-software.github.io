@@ -107,7 +107,7 @@ One pro tip with `git`. It can often be the case that your local directory can g
 
 ## Deadlines and Deliverables
 
-**Due Date**: Friday Feb 2nd at 4pm.
+**Due Date**: Friday Jan 31st at 4pm.
 You may use up to two (2) late days, out of six total. To use a late day, simply message us on Slack to let us know that you will be using a late day.
 
 **Deliverable**: For this assignment, you have two deliverables.
