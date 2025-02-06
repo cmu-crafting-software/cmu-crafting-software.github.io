@@ -7,13 +7,13 @@ parent: Assignments
 
 # Homework 2 **Due Friday Feb 7th at 2pm EST**{: .label .label-red }
 
-In this homework you will practice writing a Python application, as well as reading data from various sources. Please read the entire assignment in full before you begin. You might find some helpful information in the Resources section. 
+In this homework you will practice writing a Python application, as well as reading data from various sources. Please read the entire assignment in full before you begin. You might find some helpful information in the Resources section.
 
 ## Learning goals
 
 - Run Python application
 - Read in data from a CSV file
-- Store data in the application 
+- Store data in the application
 - Calculate some basic statistics from data collected
 
 ## Tasks
@@ -61,24 +61,25 @@ Just like the last time with `weather.csv`, you should calculate the min, max, a
 
 ## Resources
 
-Some Resources that might be helpful: 
+Some Resources that might be helpful:
 
-Reading a CSV file in Python: 
-* <https://realpython.com/python-csv/>
-* <https://stackoverflow.com/questions/11310248/find-number-of-columns-in-csv-file>
-* <https://docs.python-guide.org/starting/install3/osx/>
+Reading a CSV file in Python:
 
-Using `requests`: 
-* <https://realpython.com/python-requests/>
-* <https://stackoverflow.com/questions/31126596/saving-response-from-requests-to-file>
-* <https://learning.postman.com/docs/sending-requests/requests/#creating-requests>
+- <https://realpython.com/python-csv/>
+- <https://stackoverflow.com/questions/11310248/find-number-of-columns-in-csv-file>
+- <https://docs.python-guide.org/starting/install3/osx/>
 
+Using `requests`:
+
+- <https://realpython.com/python-requests/>
+- <https://stackoverflow.com/questions/31126596/saving-response-from-requests-to-file>
+- <https://learning.postman.com/docs/sending-requests/requests/#creating-requests>
 
 ## Tips and Suggestions
 
-* If you copy code from the internet, add a comment to attribute it.
-* The National Weather Service API doesn't accept locations like `Pittsburgh, PA` as an input. To find out what format it requires, read their [FAQ page](https://weather-gov.github.io/api/general-faqs). 
-  * There are many tools online (e.g. Google Maps) that converts from city names to coordinates.
+- If you copy code from the internet, add a comment to attribute it.
+- The National Weather Service API doesn't accept locations like `Pittsburgh, PA` as an input. To find out what format it requires, read their [FAQ page](https://weather-gov.github.io/api/general-faqs).
+  - There are many tools online (e.g. Google Maps) that converts from city names to coordinates.
 
 ## Deadlines and Deliverables
 
@@ -94,4 +95,4 @@ When you are ready to submit, send a group message to the instructors and TA via
 
 ## Assignment Review
 
-Because this is a new class, we are asking you to fill out a short survey to help us calibrate the homeworks.  This survey is ungraded, but your input will be very valuable for us in improving the course both for this semester, and for future years. [**Fill out a short survey to help us improve the course!**](https://forms.gle/FuStF6Xr1Q7hvW3a8)
+Because this is a new class, we are asking you to fill out a short survey to help us calibrate the homeworks. This survey is ungraded, but your input will be very valuable for us in improving the course both for this semester, and for future years. [**Fill out a short survey to help us improve the course!**](https://forms.gle/FuStF6Xr1Q7hvW3a8)
