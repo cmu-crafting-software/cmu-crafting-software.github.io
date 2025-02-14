@@ -18,7 +18,7 @@ tagline: 17-950 Crafting Software
 description: Welcome to Crafting Software
 author: Michael Hilton and Josh Sunshine
 #baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://cmu-crafting-software.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cmu-crafting-software.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 logo: "/assets/images/crafting_software_header_noBG.png"
 
@@ -44,23 +44,23 @@ collections:
 # Default layouts for each collection type
 defaults:
   - scope:
-      path: ''
+      path: ""
       type: staffers
     values:
       layout: staffer
-      subpath: '/assets/images/'
+      subpath: "/assets/images/"
   - scope:
-      path: ''
+      path: ""
       type: modules
     values:
       layout: module
   - scope:
-      path: ''
+      path: ""
       type: schedules
     values:
       layout: schedule
   - scope:
-      path: ''
+      path: ""
       type: announcements
     values:
       layout: announcement
