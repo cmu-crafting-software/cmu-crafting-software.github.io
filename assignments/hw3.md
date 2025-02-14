@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HW03 Defensive Programming
-permalink: /assignments/hw3
+permalink: assignments/hw3
 parent: Assignments
 ---
 

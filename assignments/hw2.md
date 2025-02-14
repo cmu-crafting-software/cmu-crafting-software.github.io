@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HW02 Reading Data
-permalink: /assignments/hw2
+permalink: assignments/hw2
 parent: Assignments
 ---
 

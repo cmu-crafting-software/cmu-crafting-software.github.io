@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources
-permalink: /resources/
+permalink: resources
 has_children: false
 nav_order: 2
 ---

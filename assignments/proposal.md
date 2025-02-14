@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Final Project Proposal
-permalink: /assignments/proposal
+permalink: assignments/proposal
 parent: Assignments
 ---
 

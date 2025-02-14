@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HW01  Version Control
-permalink: /assignments/hw1
+permalink: assignments/hw1
 parent: Assignments
 ---
 

@@ -1,22 +1,22 @@
 ---
 layout: page
 title: HW05 Hypothesis
-permalink: /assignments/hw5
+permalink: assignments/hw5
 parent: Assignments
 published: false
 ---
 
 # Homework 5
 
-**Due Friday Mar 15th at 4:00pm EST**{: .label .label-red } 
+**Due Friday Mar 15th at 4:00pm EST**{: .label .label-red }
 
-In this homework, you will use Hypothesis, a property-based testing tool, to find an obscure-ish bug in Wordle. 
+In this homework, you will use Hypothesis, a property-based testing tool, to find an obscure-ish bug in Wordle.
 
 Please read the entire assignment in full before you begin. You might find some helpful information in the [Resources](#resources) section.
 
 ## Learning goals
 
-- Think of a property that should always hold for function `is_yellow`. 
+- Think of a property that should always hold for function `is_yellow`.
 - Describe the property in your own words
 - Use Hypothesis to implement your property test for `is_yellow`
 - Find an obscure Wordle bug using Hypothesis
@@ -63,7 +63,7 @@ This may take some time and creativity. Write the property you choose in your ow
 
 ### Implement your property in `wordle_parts_test.py`
 
-Write a short test in function `test_is_yellow_pbt` that you think might find the bug. 
+Write a short test in function `test_is_yellow_pbt` that you think might find the bug.
 
 > **Note**: Short here means under 10 lines of code; if writing more than that you may want to consider a simpler property.
 
@@ -74,22 +74,23 @@ To execute Hypothesis, run `pytest` in terminal with `hw5` as your current worki
 If all tests pass, Hypothesis will say the tests passed (meaning it didn't find the bug). If a test fails, Hypothesis will show you a single example as well as the assertion that failed. The documentation (see Resources) also explains this.
 
 When you find the bug, update `README.md` with:
+
 - The counter-example Hypothesis found
 - Describe your experience trying to find the bug. Do you think this might be harder or easier than manually thinking of test cases?
 - Is there anything that you liked or disliked about using Hypothesis? How do you think it could be better or easier to use?
 
 > **Note**: If your property didn't find a bug, you should consider other properties to test.
 
-## Bonus Challenge: Fix the Bug! 
+## Bonus Challenge: Fix the Bug!
 
 Correct the bug: include a corrected version of Wordle in your repo named `wordle_parts_fixed.py`
 
 ## Resources
 
-* Hypothesis Documentation: <https://hypothesis.readthedocs.io/>
-* Hypothesis Quick Start Guide: <https://hypothesis.readthedocs.io/en/latest/quickstart.html>
-* Getting Started With Property-Based Testing in Python: <https://semaphoreci.com/blog/property-based-testing-python-hypothesis-pytest>
-* Testing your Python Code with Hypothesis: <https://www.inspiredpython.com/course/testing-with-hypothesis/testing-your-python-code-with-hypothesis>
+- Hypothesis Documentation: <https://hypothesis.readthedocs.io/>
+- Hypothesis Quick Start Guide: <https://hypothesis.readthedocs.io/en/latest/quickstart.html>
+- Getting Started With Property-Based Testing in Python: <https://semaphoreci.com/blog/property-based-testing-python-hypothesis-pytest>
+- Testing your Python Code with Hypothesis: <https://www.inspiredpython.com/course/testing-with-hypothesis/testing-your-python-code-with-hypothesis>
 
 ## Tips and Suggestions
 
@@ -97,6 +98,6 @@ You can assume that `is_green` and `is_red` are correctly implemented. If you ge
 
 ## Deadlines and Deliverables
 
-__Due Date__: Friday March 15th at 4:00pm EST
+**Due Date**: Friday March 15th at 4:00pm EST
 
 The deliverable should be committed and pushed to the main branch of your repository on GitHub inside a `hw5` subdirectory.
