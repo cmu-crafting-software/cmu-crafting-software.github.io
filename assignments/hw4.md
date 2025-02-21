@@ -3,12 +3,9 @@ layout: page
 title: HW04 Pandas
 permalink: assignments/hw4
 parent: Assignments
-published: false
 ---
 
-# Homework 4
-
-**Due Wednesday Feb 28th at 4:00pm EST**{: .label .label-red }
+# Homework 4 **Due Friday Feb 28th at 2pm EST**{: .label .label-red }
 
 In this homework, you will be working with Pandas in a Juypter notebook.
 
@@ -34,13 +31,35 @@ You will be asked to perform the following series of tasks, all in Jupyter noteb
 - Add a new column to the dataframe that is the per capita hospitalized number (hospitalizedCurrently/ total number of residents).
 - Avoid hidden state errors
 
+### Create homework repo via GitHub Classroom
+
+Your first step for this project is to create your repository that you will be working in for this assignment. You should create a repository via GitHub Classroom using this link: <https://classroom.github.com/a/ODOEMS2s> After accepting the homework, GitHub Classroom will create a repo named `cmu-crafting-software/2025-homework04-$YOUR_GITHUB_ID`.
+
+You'll need to install a couple packages. To do so, use [uv](https://docs.astral.sh/uv/):
+
+```sh
+uv init
+uv add ipykernel pandas requests
+```
+
+When you run these commands, VS Code should ask if you want to activate the virtual environment in the `.venv` folder that uv just created; click **Yes**. If you discover that you need more packages as you're working on the rest of this assignment, you can just use [`uv add`](https://docs.astral.sh/uv/concepts/projects/dependencies/#adding-dependencies) in your terminal again.
+
+(If any of the above terminal commands don't work, run the VS Code **Codespaces: Rebuild Container** command and then try again.)
+
+Please also create a `README.md` file with the following information:
+
+- The title of the homework (`# Homework 4`)
+- Your name and Andrew ID
+
 ### Import data into dataframes
+
+For the rest of this assignment, you will work inside of a Jupyter notebook. Create a Jupyter notebook file and open it in VS Code.
 
 You should import the COVID data from this CSV file:
 
 <https://gist.githubusercontent.com/wodeni/2d838d8241b229b63aa2a4f1a044e994/raw/12b1bcf27d06ed9c864f03933333f76918781c3f/state.timeseries.csv>
 
-Use the query from [Recitation-2](https://github.com/cmu-crafting-software/recitations-24/tree/main/recitation-2) and the [`requests` library](https://docs.python-requests.org/en/latest/) to request the census data and load it into a dataframe:
+Use the query from [Recitation 2](https://github.com/cmu-crafting-software/recitations-25/tree/5fe184e451ef1ef4457637d3ad8eb1b457aaab2d/recitation-2) and the [`requests` library](https://docs.python-requests.org/en/latest/) to request the census data and load it into a dataframe:
 
 ```
 https://api.census.gov/data/2019/pep/charagegroups?get=NAME,POP&for=state:*
@@ -90,4 +109,4 @@ To calculate information by day of the week, considering which information to ma
 
 **Due Date**: Wednesday Feb 28th at 4:00pm EST
 
-The deliverable should be committed and pushed to the main branch of your repository on GitHub. Your notebook file (i.e. `.ipynb`) file should be committed and pushed to your homework repository in a `hw4` subdirectory.
+The deliverable should be committed and pushed to the main branch of your repository on GitHub. Your notebook file (i.e. `.ipynb`) file should be committed and pushed to your homework repository.
