@@ -3,12 +3,9 @@ layout: page
 title: HW05 Hypothesis
 permalink: assignments/hw5
 parent: Assignments
-published: false
 ---
 
-# Homework 5
-
-**Due Friday Mar 15th at 4:00pm EST**{: .label .label-red }
+# Homework 5 **Due Monday Mar 17th at 2pm EDT**{: .label .label-red }
 
 In this homework, you will use Hypothesis, a property-based testing tool, to find an obscure-ish bug in Wordle.
 
@@ -16,7 +13,7 @@ Please read the entire assignment in full before you begin. You might find some 
 
 ## Learning goals
 
-- Think of a property that should always hold for function `is_yellow`.
+- Think of a property that should always hold for function `is_yellow`
 - Describe the property in your own words
 - Use Hypothesis to implement your property test for `is_yellow`
 - Find an obscure Wordle bug using Hypothesis
@@ -28,32 +25,28 @@ For this assignment, you will test a buggy version of Wordle using Hypothesis an
 You will perform the following tasks. You can use Codespaces for this assignment.
 
 - Install Hypothesis
-- Setup your `hw5` folder
 - Define your `is_yellow` property in your own words
 - Implement your property in `wordle_parts_test.py`
 - Find the bug using Hypothesis
 - Bonus Challenge: Fix the bug!
 
-### Install Hypothesis
+### Create homework repo via GitHub Classroom
 
-Using the terminal in your homework repo:
+Your first step for this project is to create your repository that you will be working in for this assignment. You should create a repository via GitHub Classroom using this link: <https://classroom.github.com/a/IP-I2JCx> After accepting the homework, GitHub Classroom will create a repo named `cmu-crafting-software/2025-homework05-$YOUR_GITHUB_ID`.
 
+You'll need to install a couple packages. To do so, use [uv](https://docs.astral.sh/uv/):
+
+```sh
+uv init
+uv add hypothesis pytest
 ```
-pip install hypothesis
-```
 
-### Setup your `hw5` folder
+When you run these commands, VS Code should ask if you want to activate the virtual environment in the `.venv` folder that uv just created; click **Yes**. (Also, if any of the above terminal commands don't work, run the VS Code **Codespaces: Rebuild Container** command and then try again.)
 
-1. In your homework repo:
-   ```
-   mkdir hw5
-   cd hw5
-   ```
-2. Dowload the following files into `hw5`:
-   - Buggy Wordle: `wordle_parts_buggy.py` <https://gist.githubusercontent.com/cmumatt/d8973817349b243a88b034c654c7fda9/raw/c4ecd84b4c2c6119ea70ef13e70c69b595361093/wordle_parts_buggy.py>
-   - Starter test code: `wordle_parts_test.py` <https://gist.githubusercontent.com/cmumatt/75fbf9d12b703a2021666db38adc3123/raw/912127dad10aca9796f00110173a227ff04dfc2f/wordle_parts_test.py>
-3. Create a blank `README.md` in `hw5`
-4. Stage, commit, and push to the remote repository
+Please also create a `README.md` file with the following information:
+
+- The title of the homework (`# Homework 5`)
+- Your name and Andrew ID
 
 ### Define your `is_yellow` property in your own words
 
@@ -69,15 +62,15 @@ Write a short test in function `test_is_yellow_pbt` that you think might find th
 
 ### Find the bug using Hypothesis
 
-To execute Hypothesis, run `pytest` in terminal with `hw5` as your current working directory.
+To execute Hypothesis, run `uv run pytest` in your terminal.
 
 If all tests pass, Hypothesis will say the tests passed (meaning it didn't find the bug). If a test fails, Hypothesis will show you a single example as well as the assertion that failed. The documentation (see Resources) also explains this.
 
 When you find the bug, update `README.md` with:
 
-- The counter-example Hypothesis found
-- Describe your experience trying to find the bug. Do you think this might be harder or easier than manually thinking of test cases?
-- Is there anything that you liked or disliked about using Hypothesis? How do you think it could be better or easier to use?
+- The counter-example Hypothesis found.
+- A description of your experience trying to find the bug. Do you think this might be harder or easier than manually thinking of test cases?
+- Anything that you liked or disliked about using Hypothesis. How do you think it could be better or easier to use?
 
 > **Note**: If your property didn't find a bug, you should consider other properties to test.
 
@@ -98,6 +91,6 @@ You can assume that `is_green` and `is_red` are correctly implemented. If you ge
 
 ## Deadlines and Deliverables
 
-**Due Date**: Friday March 15th at 4:00pm EST
+**Due Date**: Monday March 17th at 2pm EDT
 
-The deliverable should be committed and pushed to the main branch of your repository on GitHub inside a `hw5` subdirectory.
+The deliverable should be committed and pushed to the main branch of your repository on GitHub.
