@@ -107,6 +107,6 @@ To calculate information by day of the week, considering which information to ma
 
 ## Deadlines and Deliverables
 
-**Due Date**: Wednesday Feb 28th at 4:00pm EST
+**Due Date**: Friday Feb 28th at 2pm EST
 
 The deliverable should be committed and pushed to the main branch of your repository on GitHub. Your notebook file (i.e. `.ipynb`) file should be committed and pushed to your homework repository.
