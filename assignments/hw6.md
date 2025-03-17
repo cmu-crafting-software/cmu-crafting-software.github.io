@@ -3,6 +3,7 @@ layout: page
 title: HW06 Visualization
 permalink: assignments/hw6
 parent: Assignments
+published: false
 ---
 
 # Homework 6 **Due Monday Mar 24th at 2pm EDT**{: .label .label-red }
