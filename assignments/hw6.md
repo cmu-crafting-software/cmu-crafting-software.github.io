@@ -3,10 +3,9 @@ layout: page
 title: HW06 Visualization
 permalink: assignments/hw6
 parent: Assignments
-published: false
 ---
 
-# Homework 6 **Due Monday Mar 24th at 2pm EDT**{: .label .label-red }
+# Homework 6 **Due Monday Mar 31st at 2pm EDT**{: .label .label-red }
 
 In this homework, you will be working with Altair in a Juypter notebook.
 Please read the entire assignment in full before you begin. You might find some helpful information in the Resources section.
@@ -65,4 +64,4 @@ When making your graphs, do not try to do everything at once. First make sure th
 
 ## Deadlines and Deliverables
 
-The deliverable should be committed and pushed to the main branch of your repository on GitHub. It is due Monday, March 24th. Your notebook file (i.e. `.ipynb`) file should be committed and pushed to your homework repository, along with other necessary files such as `pyproject.toml`, `uv.lock`, and `README.md`.
+The deliverable should be committed and pushed to the main branch of your repository on GitHub. It is due Monday, March 31st. Your notebook file (i.e. `.ipynb`) file should be committed and pushed to your homework repository, along with other necessary files such as `pyproject.toml`, `uv.lock`, and `README.md`.
